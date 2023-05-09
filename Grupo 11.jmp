@@ -7,11 +7,11 @@
     </mapping>
     <mapping>
       <key class="javax.xml.namespace.QName">Project Date</key>
-      <value class="java.lang.String">2023/05/09 13:46:17</value>
+      <value class="java.lang.String">2023/05/09 17:55:02</value>
     </mapping>
     <mapping>
       <key class="javax.xml.namespace.QName">Project File</key>
-      <value class="java.lang.String">C:\Users\USER\Documents\GitHub\Grupo11SGG115\Grupo 11.jmp</value>
+      <value class="java.lang.String">C:\Users\Alexander\Downloads\Grupo11SGG115\Grupo 11.jmp</value>
     </mapping>
     <mapping>
       <key class="javax.xml.namespace.QName">Project Unit</key>
@@ -24,132 +24,10 @@
   </properties>
   <windowLocation X="5" Y="5" />
   <windowSize width="1214" height="549" />
-  <windowZoom left="-90.4953991462765" right="-87.31135881472211" bottom="12.944348692707347" top="14.663117620589283" />
+  <windowZoom left="-90.50559486173464" right="-87.30116309926397" bottom="12.944348692707347" top="14.663117620589283" />
   <maximized>true</maximized>
   <layers>
     <category name="Trabajo">
-      <layer class="com.vividsolutions.jump.workbench.model.Layer" name="Ubicaciones-PlantasSolares" visible="true" editable="false" selectable="true" read-only="false" drawnLast="false" synchronizedLineColor="true">
-        <scaleDependentRendering enabled="false">
-          <minScale null="true" />
-          <maxScale null="true" />
-        </scaleDependentRendering>
-        <description />
-        <data-source-query>
-          <query null="true" />
-          <data-source class="com.vividsolutions.jump.io.datasource.StandardReaderWriterFileDataSource$Shapefile">
-            <properties class="java.util.HashMap">
-              <mapping>
-                <key class="java.lang.String">DataSourceClassName</key>
-                <value class="java.lang.String">com.vividsolutions.jump.io.datasource.StandardReaderWriterFileDataSource$Shapefile</value>
-              </mapping>
-              <mapping>
-                <key class="java.lang.String">Uri</key>
-                <value class="java.lang.String">file:/C:/Users/USER/Documents/GitHub/Grupo11SGG115/Puntos/Plantas%20Solares/Ubicaciones-PlantasSolares.shp</value>
-              </mapping>
-              <mapping>
-                <key class="java.lang.String">File</key>
-                <value class="java.lang.String">C:\Users\USER\Documents\GitHub\Grupo11SGG115\Puntos\Plantas Solares\Ubicaciones-PlantasSolares.shp</value>
-              </mapping>
-            </properties>
-          </data-source>
-        </data-source-query>
-        <styles>
-          <style class="org.openjump.core.ccordsys.srid.SRIDStyle" enabled="true" srid="0" />
-          <style class="com.vividsolutions.jump.workbench.ui.renderer.style.BasicStyle" enabled="true">
-            <fill enabled="true">
-              <pattern class="com.vividsolutions.jump.workbench.ui.renderer.style.WKTFillPattern" enabled="false">
-                <properties>
-                  <properties>
-                    <mapping>
-                      <key class="java.lang.String">COLOR</key>
-                      <value class="java.awt.Color">255, 153, 0, 255</value>
-                    </mapping>
-                    <mapping>
-                      <key class="java.lang.String">EXTENT</key>
-                      <value class="java.lang.Integer">6</value>
-                    </mapping>
-                    <mapping>
-                      <key class="java.lang.String">LINE WIDTH</key>
-                      <value class="java.lang.Integer">2</value>
-                    </mapping>
-                    <mapping>
-                      <key class="java.lang.String">PATTERN WKT</key>
-                      <value class="java.lang.String">GEOMETRYCOLLECTION(POINT EMPTY, MULTILINESTRING ((-8.485281374238571 2.8284271247461894, 2.8284271247461907 -8.48528137423857), (-5.656854249492381 5.65685424949238, 5.656854249492381 -5.65685424949238), (-2.8284271247461907 8.48528137423857, 8.485281374238571 -2.8284271247461894)))</value>
-                    </mapping>
-                  </properties>
-                </properties>
-              </pattern>
-              <color>255, 153, 0, 255</color>
-            </fill>
-            <line enabled="true" width="4" interior="false">
-              <pattern enabled="false">3</pattern>
-              <color>178, 107, 0, 255</color>
-            </line>
-            <alpha>255</alpha>
-          </style>
-          <style class="com.vividsolutions.jump.workbench.ui.renderer.style.SquareVertexStyle" enabled="false" size="4" filling="true" />
-          <style class="com.vividsolutions.jump.workbench.ui.renderer.style.ColorThemingStyle" enabled="false" global-transparency-enabled="true" global-line-width-enabled="true" vertex-style-enabled="false">
-            <attribute-name>NOMBRE</attribute-name>
-            <default-style enabled="true">
-              <fill enabled="true">
-                <pattern class="com.vividsolutions.jump.workbench.ui.renderer.style.WKTFillPattern" enabled="false">
-                  <properties>
-                    <properties>
-                      <mapping>
-                        <key class="java.lang.String">COLOR</key>
-                        <value class="java.awt.Color">255, 153, 0, 255</value>
-                      </mapping>
-                      <mapping>
-                        <key class="java.lang.String">EXTENT</key>
-                        <value class="java.lang.Integer">6</value>
-                      </mapping>
-                      <mapping>
-                        <key class="java.lang.String">LINE WIDTH</key>
-                        <value class="java.lang.Integer">2</value>
-                      </mapping>
-                      <mapping>
-                        <key class="java.lang.String">PATTERN WKT</key>
-                        <value class="java.lang.String">GEOMETRYCOLLECTION(POINT EMPTY, MULTILINESTRING ((-8.485281374238571 2.8284271247461894, 2.8284271247461907 -8.48528137423857), (-5.656854249492381 5.65685424949238, 5.656854249492381 -5.65685424949238), (-2.8284271247461907 8.48528137423857, 8.485281374238571 -2.8284271247461894)))</value>
-                      </mapping>
-                    </properties>
-                  </properties>
-                </pattern>
-                <color>255, 153, 0, 255</color>
-              </fill>
-              <line enabled="true" width="4" interior="false">
-                <pattern enabled="false">3</pattern>
-                <color>178, 107, 0, 255</color>
-              </line>
-              <alpha>255</alpha>
-            </default-style>
-            <attribute-value-to-style-map class="java.util.TreeMap" />
-            <attribute-value-to-label-map class="java.util.TreeMap" />
-          </style>
-          <style class="com.vividsolutions.jump.workbench.ui.renderer.style.LabelStyle" enabled="false">
-            <color>0, 0, 0, 255</color>
-            <attribute>$FID</attribute>
-            <angleAttribute />
-            <heightAttribute />
-            <font>Dialog, 0, 12</font>
-            <height>12.0</height>
-            <verticalAlignment>DEFAULT</verticalAlignment>
-            <scaled>false</scaled>
-            <overlappingLabelsHidden>true</overlappingLabelsHidden>
-            <outlineShowing>false</outlineShowing>
-            <outlineColor>230, 230, 230, 192</outlineColor>
-            <outlineWidth>4.0</outlineWidth>
-            <hideAtScale>false</hideAtScale>
-            <scaleToHideAt>20000.0</scaleToHideAt>
-            <horizontalAlignment>0</horizontalAlignment>
-            <horizontalPosition>CENTER</horizontalPosition>
-          </style>
-        </styles>
-        <feature-schema-operation>NULL</feature-schema-operation>
-        <feature-schema-operation>NULL</feature-schema-operation>
-        <feature-schema-operation>NULL</feature-schema-operation>
-        <feature-schema-operation>NULL</feature-schema-operation>
-        <feature-schema-operation>NULL</feature-schema-operation>
-      </layer>
       <layer class="com.vividsolutions.jump.workbench.model.Layer" name="Ubicacion-PlantasEolicas" visible="true" editable="false" selectable="true" read-only="false" drawnLast="false" synchronizedLineColor="false">
         <scaleDependentRendering enabled="false">
           <minScale null="true" />
@@ -195,7 +73,7 @@
               </mapping>
               <mapping>
                 <key class="java.lang.String">File</key>
-                <value class="java.lang.String">C:\Users\USER\Documents\GitHub\Grupo11SGG115\Puntos\Plantas Eolicas\Ubicacion-PlantasEolicas.shp</value>
+                <value class="java.lang.String">C:\Users\Alexander\Downloads\Grupo11SGG115\Puntos\Plantas Eolicas\Ubicacion-PlantasEolicas.shp</value>
               </mapping>
             </properties>
           </data-source>
@@ -208,14 +86,6 @@
                 <properties>
                   <properties>
                     <mapping>
-                      <key class="java.lang.String">COLOR</key>
-                      <value class="java.awt.Color">0, 204, 204, 255</value>
-                    </mapping>
-                    <mapping>
-                      <key class="java.lang.String">EXTENT</key>
-                      <value class="java.lang.Integer">6</value>
-                    </mapping>
-                    <mapping>
                       <key class="java.lang.String">LINE WIDTH</key>
                       <value class="java.lang.Integer">2</value>
                     </mapping>
@@ -223,14 +93,22 @@
                       <key class="java.lang.String">PATTERN WKT</key>
                       <value class="java.lang.String">GEOMETRYCOLLECTION(POINT EMPTY, MULTILINESTRING ((-8.485281374238571 2.8284271247461894, 2.8284271247461907 -8.48528137423857), (-5.656854249492381 5.65685424949238, 5.656854249492381 -5.65685424949238), (-2.8284271247461907 8.48528137423857, 8.485281374238571 -2.8284271247461894)))</value>
                     </mapping>
+                    <mapping>
+                      <key class="java.lang.String">COLOR</key>
+                      <value class="java.awt.Color">255, 51, 255, 255</value>
+                    </mapping>
+                    <mapping>
+                      <key class="java.lang.String">EXTENT</key>
+                      <value class="java.lang.Integer">6</value>
+                    </mapping>
                   </properties>
                 </properties>
               </pattern>
-              <color>0, 204, 204, 255</color>
+              <color>255, 51, 255, 255</color>
             </fill>
             <line enabled="true" width="4" interior="false">
               <pattern enabled="false">3</pattern>
-              <color>0, 255, 255, 255</color>
+              <color>255, 102, 255, 255</color>
             </line>
             <alpha>255</alpha>
           </style>
@@ -243,14 +121,6 @@
                   <properties>
                     <properties>
                       <mapping>
-                        <key class="java.lang.String">COLOR</key>
-                        <value class="java.awt.Color">0, 204, 204, 255</value>
-                      </mapping>
-                      <mapping>
-                        <key class="java.lang.String">EXTENT</key>
-                        <value class="java.lang.Integer">6</value>
-                      </mapping>
-                      <mapping>
                         <key class="java.lang.String">LINE WIDTH</key>
                         <value class="java.lang.Integer">2</value>
                       </mapping>
@@ -258,16 +128,25 @@
                         <key class="java.lang.String">PATTERN WKT</key>
                         <value class="java.lang.String">GEOMETRYCOLLECTION(POINT EMPTY, MULTILINESTRING ((-8.485281374238571 2.8284271247461894, 2.8284271247461907 -8.48528137423857), (-5.656854249492381 5.65685424949238, 5.656854249492381 -5.65685424949238), (-2.8284271247461907 8.48528137423857, 8.485281374238571 -2.8284271247461894)))</value>
                       </mapping>
+                      <mapping>
+                        <key class="java.lang.String">COLOR</key>
+                        <value class="java.awt.Color">204, 204, 255, 255</value>
+                      </mapping>
+                      <mapping>
+                        <key class="java.lang.String">EXTENT</key>
+                        <value class="java.lang.Integer">6</value>
+                      </mapping>
                     </properties>
                   </properties>
                 </pattern>
-                <color>0, 204, 204, 255</color>
+                <color>204, 204, 255, 255</color>
               </fill>
               <line enabled="true" width="4" interior="false">
                 <pattern enabled="false">3</pattern>
-                <color>0, 255, 255, 255</color>
+                <color>255, 102, 255, 255</color>
               </line>
               <alpha>255</alpha>
+              <vertex-style class="com.vividsolutions.jump.workbench.ui.renderer.style.SquareVertexStyle" enabled="false" size="4" filling="true" />
             </default-style>
             <attribute-value-to-style-map class="java.util.TreeMap" />
             <attribute-value-to-label-map class="java.util.TreeMap" />
@@ -291,6 +170,129 @@
             <horizontalPosition>CENTER</horizontalPosition>
           </style>
         </styles>
+        <feature-schema-operation>NULL</feature-schema-operation>
+        <feature-schema-operation>NULL</feature-schema-operation>
+        <feature-schema-operation>NULL</feature-schema-operation>
+        <feature-schema-operation>NULL</feature-schema-operation>
+      </layer>
+      <layer class="com.vividsolutions.jump.workbench.model.Layer" name="Ubicaciones-PlantasSolares" visible="true" editable="false" selectable="true" read-only="false" drawnLast="false" synchronizedLineColor="true">
+        <scaleDependentRendering enabled="false">
+          <minScale null="true" />
+          <maxScale null="true" />
+        </scaleDependentRendering>
+        <description />
+        <data-source-query>
+          <query null="true" />
+          <data-source class="com.vividsolutions.jump.io.datasource.StandardReaderWriterFileDataSource$Shapefile">
+            <properties class="java.util.HashMap">
+              <mapping>
+                <key class="java.lang.String">DataSourceClassName</key>
+                <value class="java.lang.String">com.vividsolutions.jump.io.datasource.StandardReaderWriterFileDataSource$Shapefile</value>
+              </mapping>
+              <mapping>
+                <key class="java.lang.String">Uri</key>
+                <value class="java.lang.String">file:/C:/Users/USER/Documents/GitHub/Grupo11SGG115/Puntos/Plantas%20Solares/Ubicaciones-PlantasSolares.shp</value>
+              </mapping>
+              <mapping>
+                <key class="java.lang.String">File</key>
+                <value class="java.lang.String">C:\Users\Alexander\Downloads\Grupo11SGG115\Puntos\Plantas Solares\Ubicaciones-PlantasSolares.shp</value>
+              </mapping>
+            </properties>
+          </data-source>
+        </data-source-query>
+        <styles>
+          <style class="org.openjump.core.ccordsys.srid.SRIDStyle" enabled="true" srid="0" />
+          <style class="com.vividsolutions.jump.workbench.ui.renderer.style.BasicStyle" enabled="true">
+            <fill enabled="true">
+              <pattern class="com.vividsolutions.jump.workbench.ui.renderer.style.WKTFillPattern" enabled="false">
+                <properties>
+                  <properties>
+                    <mapping>
+                      <key class="java.lang.String">LINE WIDTH</key>
+                      <value class="java.lang.Integer">2</value>
+                    </mapping>
+                    <mapping>
+                      <key class="java.lang.String">PATTERN WKT</key>
+                      <value class="java.lang.String">GEOMETRYCOLLECTION(POINT EMPTY, MULTILINESTRING ((-8.485281374238571 2.8284271247461894, 2.8284271247461907 -8.48528137423857), (-5.656854249492381 5.65685424949238, 5.656854249492381 -5.65685424949238), (-2.8284271247461907 8.48528137423857, 8.485281374238571 -2.8284271247461894)))</value>
+                    </mapping>
+                    <mapping>
+                      <key class="java.lang.String">COLOR</key>
+                      <value class="java.awt.Color">255, 218, 0, 255</value>
+                    </mapping>
+                    <mapping>
+                      <key class="java.lang.String">EXTENT</key>
+                      <value class="java.lang.Integer">6</value>
+                    </mapping>
+                  </properties>
+                </properties>
+              </pattern>
+              <color>255, 218, 0, 255</color>
+            </fill>
+            <line enabled="true" width="4" interior="false">
+              <pattern enabled="false">3</pattern>
+              <color>255, 153, 0, 255</color>
+            </line>
+            <alpha>255</alpha>
+          </style>
+          <style class="com.vividsolutions.jump.workbench.ui.renderer.style.SquareVertexStyle" enabled="false" size="4" filling="true" />
+          <style class="com.vividsolutions.jump.workbench.ui.renderer.style.ColorThemingStyle" enabled="false" global-transparency-enabled="true" global-line-width-enabled="true" vertex-style-enabled="false">
+            <attribute-name>NOMBRE</attribute-name>
+            <default-style enabled="true">
+              <fill enabled="true">
+                <pattern class="com.vividsolutions.jump.workbench.ui.renderer.style.WKTFillPattern" enabled="false">
+                  <properties>
+                    <properties>
+                      <mapping>
+                        <key class="java.lang.String">LINE WIDTH</key>
+                        <value class="java.lang.Integer">2</value>
+                      </mapping>
+                      <mapping>
+                        <key class="java.lang.String">PATTERN WKT</key>
+                        <value class="java.lang.String">GEOMETRYCOLLECTION(POINT EMPTY, MULTILINESTRING ((-8.485281374238571 2.8284271247461894, 2.8284271247461907 -8.48528137423857), (-5.656854249492381 5.65685424949238, 5.656854249492381 -5.65685424949238), (-2.8284271247461907 8.48528137423857, 8.485281374238571 -2.8284271247461894)))</value>
+                      </mapping>
+                      <mapping>
+                        <key class="java.lang.String">COLOR</key>
+                        <value class="java.awt.Color">255, 218, 0, 255</value>
+                      </mapping>
+                      <mapping>
+                        <key class="java.lang.String">EXTENT</key>
+                        <value class="java.lang.Integer">6</value>
+                      </mapping>
+                    </properties>
+                  </properties>
+                </pattern>
+                <color>255, 218, 0, 255</color>
+              </fill>
+              <line enabled="true" width="4" interior="false">
+                <pattern enabled="false">3</pattern>
+                <color>255, 153, 0, 255</color>
+              </line>
+              <alpha>255</alpha>
+              <vertex-style class="com.vividsolutions.jump.workbench.ui.renderer.style.SquareVertexStyle" enabled="false" size="4" filling="true" />
+            </default-style>
+            <attribute-value-to-style-map class="java.util.TreeMap" />
+            <attribute-value-to-label-map class="java.util.TreeMap" />
+          </style>
+          <style class="com.vividsolutions.jump.workbench.ui.renderer.style.LabelStyle" enabled="false">
+            <color>0, 0, 0, 255</color>
+            <attribute>$FID</attribute>
+            <angleAttribute />
+            <heightAttribute />
+            <font>Dialog, 0, 12</font>
+            <height>12.0</height>
+            <verticalAlignment>DEFAULT</verticalAlignment>
+            <scaled>false</scaled>
+            <overlappingLabelsHidden>true</overlappingLabelsHidden>
+            <outlineShowing>false</outlineShowing>
+            <outlineColor>230, 230, 230, 192</outlineColor>
+            <outlineWidth>4.0</outlineWidth>
+            <hideAtScale>false</hideAtScale>
+            <scaleToHideAt>20000.0</scaleToHideAt>
+            <horizontalAlignment>0</horizontalAlignment>
+            <horizontalPosition>CENTER</horizontalPosition>
+          </style>
+        </styles>
+        <feature-schema-operation>NULL</feature-schema-operation>
         <feature-schema-operation>NULL</feature-schema-operation>
         <feature-schema-operation>NULL</feature-schema-operation>
         <feature-schema-operation>NULL</feature-schema-operation>
@@ -361,7 +363,7 @@
               </mapping>
               <mapping>
                 <key class="java.lang.String">File</key>
-                <value class="java.lang.String">C:\Users\USER\Documents\GitHub\Grupo11SGG115\Puntos\Plantas energeticas actuales\plantas_electricas_actuales.shp</value>
+                <value class="java.lang.String">C:\Users\Alexander\Downloads\Grupo11SGG115\Puntos\Plantas energeticas actuales\plantas_electricas_actuales.shp</value>
               </mapping>
             </properties>
           </data-source>
@@ -374,20 +376,20 @@
                 <properties>
                   <properties>
                     <mapping>
-                      <key class="java.lang.String">COLOR</key>
-                      <value class="java.awt.Color">0, 255, 0, 255</value>
-                    </mapping>
-                    <mapping>
-                      <key class="java.lang.String">EXTENT</key>
-                      <value class="java.lang.Integer">6</value>
-                    </mapping>
-                    <mapping>
                       <key class="java.lang.String">LINE WIDTH</key>
                       <value class="java.lang.Integer">2</value>
                     </mapping>
                     <mapping>
                       <key class="java.lang.String">PATTERN WKT</key>
                       <value class="java.lang.String">GEOMETRYCOLLECTION(POINT EMPTY, MULTILINESTRING ((-8.485281374238571 2.8284271247461894, 2.8284271247461907 -8.48528137423857), (-5.656854249492381 5.65685424949238, 5.656854249492381 -5.65685424949238), (-2.8284271247461907 8.48528137423857, 8.485281374238571 -2.8284271247461894)))</value>
+                    </mapping>
+                    <mapping>
+                      <key class="java.lang.String">COLOR</key>
+                      <value class="java.awt.Color">0, 255, 0, 255</value>
+                    </mapping>
+                    <mapping>
+                      <key class="java.lang.String">EXTENT</key>
+                      <value class="java.lang.Integer">6</value>
                     </mapping>
                   </properties>
                 </properties>
@@ -403,19 +405,11 @@
           <style class="com.vividsolutions.jump.workbench.ui.renderer.style.SquareVertexStyle" enabled="false" size="4" filling="true" />
           <style class="com.vividsolutions.jump.workbench.ui.renderer.style.ColorThemingStyle" enabled="true" global-transparency-enabled="true" global-line-width-enabled="true" vertex-style-enabled="false">
             <attribute-name>Tipo</attribute-name>
-            <default-style enabled="true">
+            <default-style enabled="false">
               <fill enabled="true">
                 <pattern class="com.vividsolutions.jump.workbench.ui.renderer.style.WKTFillPattern" enabled="false">
                   <properties>
                     <properties>
-                      <mapping>
-                        <key class="java.lang.String">COLOR</key>
-                        <value class="java.awt.Color">0, 204, 204, 255</value>
-                      </mapping>
-                      <mapping>
-                        <key class="java.lang.String">EXTENT</key>
-                        <value class="java.lang.Integer">6</value>
-                      </mapping>
                       <mapping>
                         <key class="java.lang.String">LINE WIDTH</key>
                         <value class="java.lang.Integer">2</value>
@@ -424,16 +418,25 @@
                         <key class="java.lang.String">PATTERN WKT</key>
                         <value class="java.lang.String">GEOMETRYCOLLECTION(POINT EMPTY, MULTILINESTRING ((-8.485281374238571 2.8284271247461894, 2.8284271247461907 -8.48528137423857), (-5.656854249492381 5.65685424949238, 5.656854249492381 -5.65685424949238), (-2.8284271247461907 8.48528137423857, 8.485281374238571 -2.8284271247461894)))</value>
                       </mapping>
+                      <mapping>
+                        <key class="java.lang.String">COLOR</key>
+                        <value class="java.awt.Color">0, 255, 0, 255</value>
+                      </mapping>
+                      <mapping>
+                        <key class="java.lang.String">EXTENT</key>
+                        <value class="java.lang.Integer">6</value>
+                      </mapping>
                     </properties>
                   </properties>
                 </pattern>
-                <color>0, 204, 204, 255</color>
+                <color>0, 255, 0, 255</color>
               </fill>
               <line enabled="true" width="4" interior="false">
                 <pattern enabled="false">3</pattern>
-                <color>0, 255, 255, 255</color>
+                <color>0, 178, 0, 255</color>
               </line>
               <alpha>255</alpha>
+              <vertex-style class="com.vividsolutions.jump.workbench.ui.renderer.style.SquareVertexStyle" enabled="false" size="4" filling="true" />
             </default-style>
             <attribute-value-to-style-map class="java.util.TreeMap">
               <mapping>
@@ -467,6 +470,42 @@
                   <line enabled="true" width="4" interior="false">
                     <pattern enabled="false">3</pattern>
                     <color>0, 255, 51, 255</color>
+                  </line>
+                  <alpha>255</alpha>
+                  <vertex-style class="com.vividsolutions.jump.workbench.ui.renderer.style.SquareVertexStyle" enabled="false" size="4" filling="true" />
+                </value>
+              </mapping>
+              <mapping>
+                <key class="java.lang.String">Eolica</key>
+                <value class="com.vividsolutions.jump.workbench.ui.renderer.style.XBasicStyle" enabled="true">
+                  <fill enabled="true">
+                    <pattern class="com.vividsolutions.jump.workbench.ui.renderer.style.WKTFillPattern" enabled="false">
+                      <properties>
+                        <properties>
+                          <mapping>
+                            <key class="java.lang.String">LINE WIDTH</key>
+                            <value class="java.lang.Integer">2</value>
+                          </mapping>
+                          <mapping>
+                            <key class="java.lang.String">PATTERN WKT</key>
+                            <value class="java.lang.String">GEOMETRYCOLLECTION(POINT EMPTY, MULTILINESTRING ((-8.485281374238571 2.8284271247461894, 2.8284271247461907 -8.48528137423857), (-5.656854249492381 5.65685424949238, 5.656854249492381 -5.65685424949238), (-2.8284271247461907 8.48528137423857, 8.485281374238571 -2.8284271247461894)))</value>
+                          </mapping>
+                          <mapping>
+                            <key class="java.lang.String">COLOR</key>
+                            <value class="java.awt.Color">255, 153, 255, 255</value>
+                          </mapping>
+                          <mapping>
+                            <key class="java.lang.String">EXTENT</key>
+                            <value class="java.lang.Integer">6</value>
+                          </mapping>
+                        </properties>
+                      </properties>
+                    </pattern>
+                    <color>255, 153, 255, 255</color>
+                  </fill>
+                  <line enabled="true" width="4" interior="false">
+                    <pattern enabled="false">3</pattern>
+                    <color>255, 102, 255, 255</color>
                   </line>
                   <alpha>255</alpha>
                   <vertex-style class="com.vividsolutions.jump.workbench.ui.renderer.style.SquareVertexStyle" enabled="false" size="4" filling="true" />
@@ -545,6 +584,42 @@
                 </value>
               </mapping>
               <mapping>
+                <key class="java.lang.String">Solar</key>
+                <value class="com.vividsolutions.jump.workbench.ui.renderer.style.XBasicStyle" enabled="true">
+                  <fill enabled="true">
+                    <pattern class="com.vividsolutions.jump.workbench.ui.renderer.style.WKTFillPattern" enabled="false">
+                      <properties>
+                        <properties>
+                          <mapping>
+                            <key class="java.lang.String">LINE WIDTH</key>
+                            <value class="java.lang.Integer">2</value>
+                          </mapping>
+                          <mapping>
+                            <key class="java.lang.String">PATTERN WKT</key>
+                            <value class="java.lang.String">GEOMETRYCOLLECTION(POINT EMPTY, MULTILINESTRING ((-8.485281374238571 2.8284271247461894, 2.8284271247461907 -8.48528137423857), (-5.656854249492381 5.65685424949238, 5.656854249492381 -5.65685424949238), (-2.8284271247461907 8.48528137423857, 8.485281374238571 -2.8284271247461894)))</value>
+                          </mapping>
+                          <mapping>
+                            <key class="java.lang.String">COLOR</key>
+                            <value class="java.awt.Color">204, 102, 0, 255</value>
+                          </mapping>
+                          <mapping>
+                            <key class="java.lang.String">EXTENT</key>
+                            <value class="java.lang.Integer">6</value>
+                          </mapping>
+                        </properties>
+                      </properties>
+                    </pattern>
+                    <color>204, 102, 0, 255</color>
+                  </fill>
+                  <line enabled="true" width="4" interior="false">
+                    <pattern enabled="false">3</pattern>
+                    <color>255, 153, 0, 255</color>
+                  </line>
+                  <alpha>255</alpha>
+                  <vertex-style class="com.vividsolutions.jump.workbench.ui.renderer.style.SquareVertexStyle" enabled="false" size="4" filling="true" />
+                </value>
+              </mapping>
+              <mapping>
                 <key class="java.lang.String">Termica</key>
                 <value class="com.vividsolutions.jump.workbench.ui.renderer.style.XBasicStyle" enabled="true">
                   <fill enabled="true">
@@ -587,12 +662,20 @@
                 <value class="java.lang.String">Biomasa</value>
               </mapping>
               <mapping>
+                <key class="java.lang.String">Eolica</key>
+                <value class="java.lang.String">Eolica</value>
+              </mapping>
+              <mapping>
                 <key class="java.lang.String">Geotermica</key>
                 <value class="java.lang.String">Geotermica</value>
               </mapping>
               <mapping>
                 <key class="java.lang.String">Hidraulica</key>
                 <value class="java.lang.String">Hidraulica</value>
+              </mapping>
+              <mapping>
+                <key class="java.lang.String">Solar</key>
+                <value class="java.lang.String">Solar</value>
               </mapping>
               <mapping>
                 <key class="java.lang.String">Termica</key>
@@ -757,7 +840,7 @@
               </mapping>
               <mapping>
                 <key class="java.lang.String">File</key>
-                <value class="java.lang.String">C:\Users\USER\Documents\GitHub\Grupo11SGG115\Lineal\Carreteras\carreteras.shp</value>
+                <value class="java.lang.String">C:\Users\Alexander\Downloads\Grupo11SGG115\Lineal\Carreteras\carreteras.shp</value>
               </mapping>
             </properties>
           </data-source>
@@ -899,7 +982,7 @@
               </mapping>
               <mapping>
                 <key class="java.lang.String">File</key>
-                <value class="java.lang.String">C:\Users\USER\Documents\GitHub\Grupo11SGG115\Lineal\Linea de transmision de 230 KV\linea_de_transmision_de_230KV.shp</value>
+                <value class="java.lang.String">C:\Users\Alexander\Downloads\Grupo11SGG115\Lineal\Linea de transmision de 230 KV\linea_de_transmision_de_230KV.shp</value>
               </mapping>
             </properties>
           </data-source>
@@ -912,14 +995,6 @@
                 <properties>
                   <properties>
                     <mapping>
-                      <key class="java.lang.String">COLOR</key>
-                      <value class="java.awt.Color">255, 218, 0, 245</value>
-                    </mapping>
-                    <mapping>
-                      <key class="java.lang.String">EXTENT</key>
-                      <value class="java.lang.Integer">6</value>
-                    </mapping>
-                    <mapping>
                       <key class="java.lang.String">LINE WIDTH</key>
                       <value class="java.lang.Integer">2</value>
                     </mapping>
@@ -927,14 +1002,22 @@
                       <key class="java.lang.String">PATTERN WKT</key>
                       <value class="java.lang.String">GEOMETRYCOLLECTION(POINT EMPTY, MULTILINESTRING ((-8.485281374238571 2.8284271247461894, 2.8284271247461907 -8.48528137423857), (-5.656854249492381 5.65685424949238, 5.656854249492381 -5.65685424949238), (-2.8284271247461907 8.48528137423857, 8.485281374238571 -2.8284271247461894)))</value>
                     </mapping>
+                    <mapping>
+                      <key class="java.lang.String">COLOR</key>
+                      <value class="java.awt.Color">255, 218, 72, 245</value>
+                    </mapping>
+                    <mapping>
+                      <key class="java.lang.String">EXTENT</key>
+                      <value class="java.lang.Integer">6</value>
+                    </mapping>
                   </properties>
                 </properties>
               </pattern>
-              <color>255, 218, 0, 255</color>
+              <color>255, 218, 72, 255</color>
             </fill>
             <line enabled="true" width="2" interior="false">
               <pattern enabled="false">3</pattern>
-              <color>255, 153, 0, 255</color>
+              <color>255, 153, 51, 255</color>
             </line>
             <alpha>245</alpha>
           </style>
@@ -947,14 +1030,6 @@
                   <properties>
                     <properties>
                       <mapping>
-                        <key class="java.lang.String">COLOR</key>
-                        <value class="java.awt.Color">255, 218, 0, 245</value>
-                      </mapping>
-                      <mapping>
-                        <key class="java.lang.String">EXTENT</key>
-                        <value class="java.lang.Integer">6</value>
-                      </mapping>
-                      <mapping>
                         <key class="java.lang.String">LINE WIDTH</key>
                         <value class="java.lang.Integer">2</value>
                       </mapping>
@@ -962,16 +1037,25 @@
                         <key class="java.lang.String">PATTERN WKT</key>
                         <value class="java.lang.String">GEOMETRYCOLLECTION(POINT EMPTY, MULTILINESTRING ((-8.485281374238571 2.8284271247461894, 2.8284271247461907 -8.48528137423857), (-5.656854249492381 5.65685424949238, 5.656854249492381 -5.65685424949238), (-2.8284271247461907 8.48528137423857, 8.485281374238571 -2.8284271247461894)))</value>
                       </mapping>
+                      <mapping>
+                        <key class="java.lang.String">COLOR</key>
+                        <value class="java.awt.Color">255, 145, 145, 245</value>
+                      </mapping>
+                      <mapping>
+                        <key class="java.lang.String">EXTENT</key>
+                        <value class="java.lang.Integer">6</value>
+                      </mapping>
                     </properties>
                   </properties>
                 </pattern>
-                <color>255, 218, 0, 255</color>
+                <color>255, 145, 145, 245</color>
               </fill>
               <line enabled="true" width="2" interior="false">
                 <pattern enabled="false">3</pattern>
-                <color>255, 153, 0, 255</color>
+                <color>255, 102, 102, 255</color>
               </line>
               <alpha>245</alpha>
+              <vertex-style class="com.vividsolutions.jump.workbench.ui.renderer.style.SquareVertexStyle" enabled="false" size="4" filling="false" />
             </default-style>
             <attribute-value-to-style-map class="java.util.TreeMap" />
             <attribute-value-to-label-map class="java.util.TreeMap" />
@@ -1018,7 +1102,7 @@
               </mapping>
               <mapping>
                 <key class="java.lang.String">File</key>
-                <value class="java.lang.String">C:\Users\USER\Documents\GitHub\Grupo11SGG115\Lineal\Conexiones\conexiones.shp</value>
+                <value class="java.lang.String">C:\Users\Alexander\Downloads\Grupo11SGG115\Lineal\Conexiones\conexiones.shp</value>
               </mapping>
             </properties>
           </data-source>
@@ -1158,7 +1242,7 @@
               </mapping>
               <mapping>
                 <key class="java.lang.String">File</key>
-                <value class="java.lang.String">C:\Users\USER\Documents\GitHub\Grupo11SGG115\Lineal\Linea de transmision de 115 KV\linea de transmision de 115KV.shp</value>
+                <value class="java.lang.String">C:\Users\Alexander\Downloads\Grupo11SGG115\Lineal\Linea de transmision de 115 KV\linea de transmision de 115KV.shp</value>
               </mapping>
             </properties>
           </data-source>
@@ -1171,20 +1255,20 @@
                 <properties>
                   <properties>
                     <mapping>
-                      <key class="java.lang.String">COLOR</key>
-                      <value class="java.awt.Color">218, 218, 255, 235</value>
-                    </mapping>
-                    <mapping>
-                      <key class="java.lang.String">EXTENT</key>
-                      <value class="java.lang.Integer">6</value>
-                    </mapping>
-                    <mapping>
                       <key class="java.lang.String">LINE WIDTH</key>
                       <value class="java.lang.Integer">2</value>
                     </mapping>
                     <mapping>
                       <key class="java.lang.String">PATTERN WKT</key>
                       <value class="java.lang.String">GEOMETRYCOLLECTION(POINT EMPTY, MULTILINESTRING ((-8.485281374238571 2.8284271247461894, 2.8284271247461907 -8.48528137423857), (-5.656854249492381 5.65685424949238, 5.656854249492381 -5.65685424949238), (-2.8284271247461907 8.48528137423857, 8.485281374238571 -2.8284271247461894)))</value>
+                    </mapping>
+                    <mapping>
+                      <key class="java.lang.String">COLOR</key>
+                      <value class="java.awt.Color">218, 218, 255, 235</value>
+                    </mapping>
+                    <mapping>
+                      <key class="java.lang.String">EXTENT</key>
+                      <value class="java.lang.Integer">6</value>
                     </mapping>
                   </properties>
                 </properties>
@@ -1206,14 +1290,6 @@
                   <properties>
                     <properties>
                       <mapping>
-                        <key class="java.lang.String">COLOR</key>
-                        <value class="java.awt.Color">102, 115, 206, 235</value>
-                      </mapping>
-                      <mapping>
-                        <key class="java.lang.String">EXTENT</key>
-                        <value class="java.lang.Integer">6</value>
-                      </mapping>
-                      <mapping>
                         <key class="java.lang.String">LINE WIDTH</key>
                         <value class="java.lang.Integer">2</value>
                       </mapping>
@@ -1221,16 +1297,25 @@
                         <key class="java.lang.String">PATTERN WKT</key>
                         <value class="java.lang.String">GEOMETRYCOLLECTION(POINT EMPTY, MULTILINESTRING ((-8.485281374238571 2.8284271247461894, 2.8284271247461907 -8.48528137423857), (-5.656854249492381 5.65685424949238, 5.656854249492381 -5.65685424949238), (-2.8284271247461907 8.48528137423857, 8.485281374238571 -2.8284271247461894)))</value>
                       </mapping>
+                      <mapping>
+                        <key class="java.lang.String">COLOR</key>
+                        <value class="java.awt.Color">255, 255, 255, 235</value>
+                      </mapping>
+                      <mapping>
+                        <key class="java.lang.String">EXTENT</key>
+                        <value class="java.lang.Integer">6</value>
+                      </mapping>
                     </properties>
                   </properties>
                 </pattern>
-                <color>102, 115, 206, 255</color>
+                <color>255, 255, 255, 235</color>
               </fill>
               <line enabled="true" width="2" interior="false">
                 <pattern enabled="false">3</pattern>
-                <color>71, 80, 144, 255</color>
+                <color>255, 204, 204, 255</color>
               </line>
               <alpha>235</alpha>
+              <vertex-style class="com.vividsolutions.jump.workbench.ui.renderer.style.SquareVertexStyle" enabled="false" size="4" filling="false" />
             </default-style>
             <attribute-value-to-style-map class="java.util.TreeMap" />
             <attribute-value-to-label-map class="java.util.TreeMap" />
@@ -1268,6 +1353,35 @@
           <data-source class="com.vividsolutions.jump.io.datasource.StandardReaderWriterFileDataSource$Shapefile">
             <properties class="java.util.HashMap">
               <mapping>
+                <key class="java.lang.String">AttributeColumnsWidthMap</key>
+                <value class="java.util.HashMap">
+                  <mapping>
+                    <key class="java.lang.String" />
+                    <value class="java.lang.Integer">16</value>
+                  </mapping>
+                  <mapping>
+                    <key class="java.lang.String">FID</key>
+                    <value class="java.lang.Integer">42</value>
+                  </mapping>
+                  <mapping>
+                    <key class="java.lang.String">id</key>
+                    <value class="java.lang.Integer">33</value>
+                  </mapping>
+                  <mapping>
+                    <key class="java.lang.String">AREA</key>
+                    <value class="java.lang.Integer">52</value>
+                  </mapping>
+                  <mapping>
+                    <key class="java.lang.String">NOMBRE</key>
+                    <value class="java.lang.Integer">112</value>
+                  </mapping>
+                  <mapping>
+                    <key class="java.lang.String">DEPART</key>
+                    <value class="java.lang.Integer">64</value>
+                  </mapping>
+                </value>
+              </mapping>
+              <mapping>
                 <key class="java.lang.String">DataSourceClassName</key>
                 <value class="java.lang.String">com.vividsolutions.jump.io.datasource.StandardReaderWriterFileDataSource$Shapefile</value>
               </mapping>
@@ -1277,7 +1391,7 @@
               </mapping>
               <mapping>
                 <key class="java.lang.String">File</key>
-                <value class="java.lang.String">C:\Users\USER\Documents\GitHub\Grupo11SGG115\Vectorial\Plantas Solares\Plantas Solares.shp</value>
+                <value class="java.lang.String">C:\Users\Alexander\Downloads\Grupo11SGG115\Vectorial\Plantas Solares\Plantas Solares.shp</value>
               </mapping>
             </properties>
           </data-source>
@@ -1290,14 +1404,6 @@
                 <properties>
                   <properties>
                     <mapping>
-                      <key class="java.lang.String">COLOR</key>
-                      <value class="java.awt.Color">255, 255, 51, 150</value>
-                    </mapping>
-                    <mapping>
-                      <key class="java.lang.String">EXTENT</key>
-                      <value class="java.lang.Integer">6</value>
-                    </mapping>
-                    <mapping>
                       <key class="java.lang.String">LINE WIDTH</key>
                       <value class="java.lang.Integer">2</value>
                     </mapping>
@@ -1305,14 +1411,22 @@
                       <key class="java.lang.String">PATTERN WKT</key>
                       <value class="java.lang.String">GEOMETRYCOLLECTION(POINT EMPTY, MULTILINESTRING ((-8.485281374238571 2.8284271247461894, 2.8284271247461907 -8.48528137423857), (-5.656854249492381 5.65685424949238, 5.656854249492381 -5.65685424949238), (-2.8284271247461907 8.48528137423857, 8.485281374238571 -2.8284271247461894)))</value>
                     </mapping>
+                    <mapping>
+                      <key class="java.lang.String">COLOR</key>
+                      <value class="java.awt.Color">255, 204, 102, 150</value>
+                    </mapping>
+                    <mapping>
+                      <key class="java.lang.String">EXTENT</key>
+                      <value class="java.lang.Integer">6</value>
+                    </mapping>
                   </properties>
                 </properties>
               </pattern>
-              <color>255, 255, 51, 255</color>
+              <color>255, 204, 102, 255</color>
             </fill>
             <line enabled="true" width="1" interior="false">
               <pattern enabled="false">3</pattern>
-              <color>178, 178, 35, 255</color>
+              <color>178, 142, 71, 255</color>
             </line>
             <alpha>150</alpha>
           </style>
@@ -1321,14 +1435,36 @@
             <attribute-name>id</attribute-name>
             <default-style enabled="true">
               <fill enabled="true">
-                <pattern null="true" enabled="false" />
-                <color>180, 0, 0, 255</color>
+                <pattern class="com.vividsolutions.jump.workbench.ui.renderer.style.WKTFillPattern" enabled="false">
+                  <properties>
+                    <properties>
+                      <mapping>
+                        <key class="java.lang.String">LINE WIDTH</key>
+                        <value class="java.lang.Integer">2</value>
+                      </mapping>
+                      <mapping>
+                        <key class="java.lang.String">PATTERN WKT</key>
+                        <value class="java.lang.String">GEOMETRYCOLLECTION(POINT EMPTY, MULTILINESTRING ((-8.485281374238571 2.8284271247461894, 2.8284271247461907 -8.48528137423857), (-5.656854249492381 5.65685424949238, 5.656854249492381 -5.65685424949238), (-2.8284271247461907 8.48528137423857, 8.485281374238571 -2.8284271247461894)))</value>
+                      </mapping>
+                      <mapping>
+                        <key class="java.lang.String">COLOR</key>
+                        <value class="java.awt.Color">255, 102, 0, 150</value>
+                      </mapping>
+                      <mapping>
+                        <key class="java.lang.String">EXTENT</key>
+                        <value class="java.lang.Integer">6</value>
+                      </mapping>
+                    </properties>
+                  </properties>
+                </pattern>
+                <color>255, 102, 0, 150</color>
               </fill>
               <line enabled="true" width="1" interior="false">
                 <pattern enabled="false">3</pattern>
-                <color>125, 0, 0, 255</color>
+                <color>178, 71, 0, 255</color>
               </line>
               <alpha>150</alpha>
+              <vertex-style class="com.vividsolutions.jump.workbench.ui.renderer.style.SquareVertexStyle" enabled="false" size="4" filling="true" />
             </default-style>
             <attribute-value-to-style-map class="java.util.TreeMap" />
             <attribute-value-to-label-map class="java.util.TreeMap" />
@@ -1407,7 +1543,7 @@
               </mapping>
               <mapping>
                 <key class="java.lang.String">File</key>
-                <value class="java.lang.String">C:\Users\USER\Documents\GitHub\Grupo11SGG115\Vectorial\Plantas Eolicas\Plantas eolicas.shp</value>
+                <value class="java.lang.String">C:\Users\Alexander\Downloads\Grupo11SGG115\Vectorial\Plantas Eolicas\Plantas eolicas.shp</value>
               </mapping>
             </properties>
           </data-source>
@@ -1420,14 +1556,6 @@
                 <properties>
                   <properties>
                     <mapping>
-                      <key class="java.lang.String">COLOR</key>
-                      <value class="java.awt.Color">153, 153, 255, 183</value>
-                    </mapping>
-                    <mapping>
-                      <key class="java.lang.String">EXTENT</key>
-                      <value class="java.lang.Integer">6</value>
-                    </mapping>
-                    <mapping>
                       <key class="java.lang.String">LINE WIDTH</key>
                       <value class="java.lang.Integer">2</value>
                     </mapping>
@@ -1435,14 +1563,22 @@
                       <key class="java.lang.String">PATTERN WKT</key>
                       <value class="java.lang.String">GEOMETRYCOLLECTION(POINT EMPTY, MULTILINESTRING ((-8.485281374238571 2.8284271247461894, 2.8284271247461907 -8.48528137423857), (-5.656854249492381 5.65685424949238, 5.656854249492381 -5.65685424949238), (-2.8284271247461907 8.48528137423857, 8.485281374238571 -2.8284271247461894)))</value>
                     </mapping>
+                    <mapping>
+                      <key class="java.lang.String">COLOR</key>
+                      <value class="java.awt.Color">255, 204, 255, 183</value>
+                    </mapping>
+                    <mapping>
+                      <key class="java.lang.String">EXTENT</key>
+                      <value class="java.lang.Integer">6</value>
+                    </mapping>
                   </properties>
                 </properties>
               </pattern>
-              <color>153, 153, 255, 255</color>
+              <color>255, 204, 255, 255</color>
             </fill>
             <line enabled="true" width="1" interior="false">
               <pattern enabled="false">3</pattern>
-              <color>107, 107, 178, 255</color>
+              <color>178, 142, 178, 255</color>
             </line>
             <alpha>183</alpha>
           </style>
@@ -1455,14 +1591,6 @@
                   <properties>
                     <properties>
                       <mapping>
-                        <key class="java.lang.String">COLOR</key>
-                        <value class="java.awt.Color">153, 153, 255, 183</value>
-                      </mapping>
-                      <mapping>
-                        <key class="java.lang.String">EXTENT</key>
-                        <value class="java.lang.Integer">6</value>
-                      </mapping>
-                      <mapping>
                         <key class="java.lang.String">LINE WIDTH</key>
                         <value class="java.lang.Integer">2</value>
                       </mapping>
@@ -1470,16 +1598,25 @@
                         <key class="java.lang.String">PATTERN WKT</key>
                         <value class="java.lang.String">GEOMETRYCOLLECTION(POINT EMPTY, MULTILINESTRING ((-8.485281374238571 2.8284271247461894, 2.8284271247461907 -8.48528137423857), (-5.656854249492381 5.65685424949238, 5.656854249492381 -5.65685424949238), (-2.8284271247461907 8.48528137423857, 8.485281374238571 -2.8284271247461894)))</value>
                       </mapping>
+                      <mapping>
+                        <key class="java.lang.String">COLOR</key>
+                        <value class="java.awt.Color">204, 204, 255, 183</value>
+                      </mapping>
+                      <mapping>
+                        <key class="java.lang.String">EXTENT</key>
+                        <value class="java.lang.Integer">6</value>
+                      </mapping>
                     </properties>
                   </properties>
                 </pattern>
-                <color>153, 153, 255, 255</color>
+                <color>204, 204, 255, 183</color>
               </fill>
               <line enabled="true" width="1" interior="false">
                 <pattern enabled="false">3</pattern>
-                <color>153, 153, 255, 255</color>
+                <color>142, 142, 178, 255</color>
               </line>
               <alpha>183</alpha>
+              <vertex-style class="com.vividsolutions.jump.workbench.ui.renderer.style.SquareVertexStyle" enabled="false" size="4" filling="true" />
             </default-style>
             <attribute-value-to-style-map class="java.util.TreeMap" />
             <attribute-value-to-label-map class="java.util.TreeMap" />
@@ -1533,7 +1670,7 @@
               </mapping>
               <mapping>
                 <key class="java.lang.String">File</key>
-                <value class="java.lang.String">C:\Users\USER\Documents\GitHub\Grupo11SGG115\Vectorial\Rios\rios.shp</value>
+                <value class="java.lang.String">C:\Users\Alexander\Downloads\Grupo11SGG115\Vectorial\Rios\rios.shp</value>
               </mapping>
             </properties>
           </data-source>
@@ -1658,7 +1795,7 @@
               </mapping>
               <mapping>
                 <key class="java.lang.String">File</key>
-                <value class="java.lang.String">C:\Users\USER\Documents\GitHub\Grupo11SGG115\Vectorial\Lagos\lagos.shp</value>
+                <value class="java.lang.String">C:\Users\Alexander\Downloads\Grupo11SGG115\Vectorial\Lagos\lagos.shp</value>
               </mapping>
             </properties>
           </data-source>
@@ -1766,16 +1903,16 @@
         </scaleDependentRendering>
         <description />
         <data-source-query>
-          <query>C:\Users\Alexander\Desktop\Grupo11SGG115\Grupo 11\Distribuidores_referenciado.shp</query>
+          <query>C:\Users\Alexander\Downloads\Grupo11SGG115\Grupo 11\Distribuidores_referenciado.shp</query>
           <data-source class="com.vividsolutions.jump.io.datasource.StandardReaderWriterFileDataSource$Shapefile">
             <properties class="java.util.HashMap">
               <mapping>
                 <key class="java.lang.String">Uri</key>
-                <value class="java.lang.String">file:/C:/Users/Alexander/Desktop/Grupo11SGG115/Grupo%2011/Distribuidores_referenciado.shp</value>
+                <value class="java.lang.String">file:/C:/Users/Alexander/Downloads/Grupo11SGG115/Grupo%2011/Distribuidores_referenciado.shp</value>
               </mapping>
               <mapping>
                 <key class="java.lang.String">File</key>
-                <value class="java.lang.String">C:\Users\USER\Documents\GitHub\Grupo11SGG115\Grupo 11\Distribuidores_referenciado.shp</value>
+                <value class="java.lang.String">C:\Users\Alexander\Downloads\Grupo11SGG115\Grupo 11\Distribuidores_referenciado.shp</value>
               </mapping>
             </properties>
           </data-source>
@@ -1824,6 +1961,7 @@
                 <color>134, 134, 134, 255</color>
               </line>
               <alpha>255</alpha>
+              <vertex-style class="com.vividsolutions.jump.workbench.ui.renderer.style.SquareVertexStyle" enabled="false" size="4" filling="true" />
             </default-style>
             <attribute-value-to-style-map class="java.util.HashMap" />
             <attribute-value-to-label-map class="java.util.HashMap" />
@@ -1837,23 +1975,23 @@
         <feature-schema-operation>NULL</feature-schema-operation>
         <feature-schema-operation>NULL</feature-schema-operation>
       </layer>
-      <layer class="com.vividsolutions.jump.workbench.imagery.ReferencedImagesLayer" name="radiacion_solar" visible="false" editable="true" selectable="true" read-only="false" drawnLast="false" synchronizedLineColor="true">
+      <layer class="com.vividsolutions.jump.workbench.imagery.ReferencedImagesLayer" name="radiacion_solar" visible="false" editable="false" selectable="true" read-only="false" drawnLast="false" synchronizedLineColor="true">
         <scaleDependentRendering enabled="false">
           <minScale null="true" />
           <maxScale null="true" />
         </scaleDependentRendering>
         <description />
         <data-source-query>
-          <query>C:\Users\USER\Documents\GitHub\Grupo11SGG115\Grupo 11\radiacion_solar.shp</query>
+          <query>C:\Users\Alexander\Downloads\Grupo11SGG115\Grupo 11\radiacion_solar.shp</query>
           <data-source class="com.vividsolutions.jump.io.datasource.StandardReaderWriterFileDataSource$Shapefile">
             <properties class="java.util.HashMap">
               <mapping>
                 <key class="java.lang.String">Uri</key>
-                <value class="java.lang.String">file:/C:/Users/USER/Documents/GitHub/Grupo11SGG115/Grupo%2011/radiacion_solar.shp</value>
+                <value class="java.lang.String">file:/C:/Users/Alexander/Downloads/Grupo11SGG115/Grupo%2011/radiacion_solar.shp</value>
               </mapping>
               <mapping>
                 <key class="java.lang.String">File</key>
-                <value class="java.lang.String">C:\Users\USER\Documents\GitHub\Grupo11SGG115\Grupo 11\radiacion_solar.shp</value>
+                <value class="java.lang.String">C:\Users\Alexander\Downloads\Grupo11SGG115\Grupo 11\radiacion_solar.shp</value>
               </mapping>
             </properties>
           </data-source>
@@ -1902,6 +2040,7 @@
                 <color>134, 134, 134, 255</color>
               </line>
               <alpha>255</alpha>
+              <vertex-style class="com.vividsolutions.jump.workbench.ui.renderer.style.SquareVertexStyle" enabled="false" size="4" filling="true" />
             </default-style>
             <attribute-value-to-style-map class="java.util.HashMap" />
             <attribute-value-to-label-map class="java.util.HashMap" />
@@ -1915,56 +2054,23 @@
         <feature-schema-operation>NULL</feature-schema-operation>
         <feature-schema-operation>NULL</feature-schema-operation>
       </layer>
-      <layer class="com.vividsolutions.jump.workbench.imagery.ReferencedImagesLayer" name="El Salvador referenciado" visible="true" editable="false" selectable="true" read-only="false" drawnLast="false" synchronizedLineColor="true">
+      <layer class="com.vividsolutions.jump.workbench.imagery.ReferencedImagesLayer" name="El Salvador Referenciado" visible="true" editable="false" selectable="true" read-only="false" drawnLast="false" synchronizedLineColor="true">
         <scaleDependentRendering enabled="true">
           <minScale null="true" />
-          <maxScale>0.0029104166666666753</maxScale>
+          <maxScale>0.0029104166666666627</maxScale>
         </scaleDependentRendering>
         <description />
         <data-source-query>
-          <query>C:\Users\Alexander\Desktop\Grupo11SGG115\Grupo 11\El_Salvador_referenciado.shp</query>
+          <query>C:\Users\Alexander\Downloads\Grupo11SGG115\Grupo 11\El_Salvador_Referenciado.shp</query>
           <data-source class="com.vividsolutions.jump.io.datasource.StandardReaderWriterFileDataSource$Shapefile">
             <properties class="java.util.HashMap">
               <mapping>
-                <key class="java.lang.String">AttributeColumnsWidthMap</key>
-                <value class="java.util.HashMap">
-                  <mapping>
-                    <key class="java.lang.String" />
-                    <value class="java.lang.Integer">16</value>
-                  </mapping>
-                  <mapping>
-                    <key class="java.lang.String">FID</key>
-                    <value class="java.lang.Integer">42</value>
-                  </mapping>
-                  <mapping>
-                    <key class="java.lang.String">IMG_URI</key>
-                    <value class="java.lang.Integer">200</value>
-                  </mapping>
-                  <mapping>
-                    <key class="java.lang.String">IMG_FACT</key>
-                    <value class="java.lang.Integer">200</value>
-                  </mapping>
-                  <mapping>
-                    <key class="java.lang.String">IMGERROR</key>
-                    <value class="java.lang.Integer">79</value>
-                  </mapping>
-                  <mapping>
-                    <key class="java.lang.String">IMGLOADR</key>
-                    <value class="java.lang.Integer">200</value>
-                  </mapping>
-                  <mapping>
-                    <key class="java.lang.String">IMG_TYPE</key>
-                    <value class="java.lang.Integer">74</value>
-                  </mapping>
-                </value>
-              </mapping>
-              <mapping>
                 <key class="java.lang.String">Uri</key>
-                <value class="java.lang.String">file:/C:/Users/Alexander/Desktop/Grupo11SGG115/Grupo%2011/El_Salvador_referenciado.shp</value>
+                <value class="java.lang.String">file:/C:/Users/Alexander/Downloads/Grupo11SGG115/Grupo%2011/El_Salvador_Referenciado.shp</value>
               </mapping>
               <mapping>
                 <key class="java.lang.String">File</key>
-                <value class="java.lang.String">C:\Users\USER\Documents\GitHub\Grupo11SGG115\Grupo 11\El_Salvador_referenciado.shp</value>
+                <value class="java.lang.String">C:\Users\Alexander\Downloads\Grupo11SGG115\Grupo 11\El_Salvador_Referenciado.shp</value>
               </mapping>
             </properties>
           </data-source>
@@ -1978,20 +2084,20 @@
                 <properties>
                   <properties>
                     <mapping>
-                      <key class="java.lang.String">COLOR</key>
-                      <value class="java.awt.Color">0, 0, 0, 150</value>
-                    </mapping>
-                    <mapping>
-                      <key class="java.lang.String">EXTENT</key>
-                      <value class="java.lang.Integer">6</value>
-                    </mapping>
-                    <mapping>
                       <key class="java.lang.String">LINE WIDTH</key>
                       <value class="java.lang.Integer">2</value>
                     </mapping>
                     <mapping>
                       <key class="java.lang.String">PATTERN WKT</key>
                       <value class="java.lang.String">GEOMETRYCOLLECTION(POINT EMPTY, MULTILINESTRING ((-8.485281374238571 2.8284271247461894, 2.8284271247461907 -8.48528137423857), (-5.656854249492381 5.65685424949238, 5.656854249492381 -5.65685424949238), (-2.8284271247461907 8.48528137423857, 8.485281374238571 -2.8284271247461894)))</value>
+                    </mapping>
+                    <mapping>
+                      <key class="java.lang.String">COLOR</key>
+                      <value class="java.awt.Color">0, 0, 0, 150</value>
+                    </mapping>
+                    <mapping>
+                      <key class="java.lang.String">EXTENT</key>
+                      <value class="java.lang.Integer">6</value>
                     </mapping>
                   </properties>
                 </properties>
@@ -2010,13 +2116,14 @@
             <default-style enabled="false">
               <fill enabled="false">
                 <pattern null="true" enabled="false" />
-                <color>0, 0, 0, 255</color>
+                <color>0, 0, 0, 150</color>
               </fill>
               <line enabled="true" width="1" interior="false">
                 <pattern enabled="false">3</pattern>
                 <color>0, 0, 0, 255</color>
               </line>
               <alpha>150</alpha>
+              <vertex-style class="com.vividsolutions.jump.workbench.ui.renderer.style.SquareVertexStyle" enabled="false" size="4" filling="true" />
             </default-style>
             <attribute-value-to-style-map class="java.util.TreeMap" />
             <attribute-value-to-label-map class="java.util.TreeMap" />
@@ -2138,7 +2245,7 @@
               </mapping>
               <mapping>
                 <key class="java.lang.String">File</key>
-                <value class="java.lang.String">C:\Users\USER\Documents\GitHub\Grupo11SGG115\Vectorial\Colonias\colonias.shp</value>
+                <value class="java.lang.String">C:\Users\Alexander\Downloads\Grupo11SGG115\Vectorial\Colonias\colonias.shp</value>
               </mapping>
             </properties>
           </data-source>
@@ -2346,7 +2453,7 @@
               </mapping>
               <mapping>
                 <key class="java.lang.String">File</key>
-                <value class="java.lang.String">C:\Users\USER\Documents\GitHub\Grupo11SGG115\Vectorial\Municipios\municipios.shp</value>
+                <value class="java.lang.String">C:\Users\Alexander\Downloads\Grupo11SGG115\Vectorial\Municipios\municipios.shp</value>
               </mapping>
             </properties>
           </data-source>
@@ -2557,7 +2664,7 @@
               </mapping>
               <mapping>
                 <key class="java.lang.String">File</key>
-                <value class="java.lang.String">C:\Users\USER\Documents\GitHub\Grupo11SGG115\Vectorial\Departamentos\deparatamentos.shp</value>
+                <value class="java.lang.String">C:\Users\Alexander\Downloads\Grupo11SGG115\Vectorial\Departamentos\deparatamentos.shp</value>
               </mapping>
             </properties>
           </data-source>
@@ -3007,7 +3114,7 @@
               </mapping>
               <mapping>
                 <key class="java.lang.String">File</key>
-                <value class="java.lang.String">C:\Users\USER\Documents\GitHub\Grupo11SGG115\Vectorial\El Salvador\el_salvador.shp</value>
+                <value class="java.lang.String">C:\Users\Alexander\Downloads\Grupo11SGG115\Vectorial\El Salvador\el_salvador.shp</value>
               </mapping>
             </properties>
           </data-source>
