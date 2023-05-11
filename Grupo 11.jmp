@@ -7,7 +7,7 @@
     </mapping>
     <mapping>
       <key class="javax.xml.namespace.QName">Project Date</key>
-      <value class="java.lang.String">2023/05/11 14:42:26</value>
+      <value class="java.lang.String">2023/05/11 15:12:37</value>
     </mapping>
     <mapping>
       <key class="javax.xml.namespace.QName">Project File</key>
@@ -24,7 +24,7 @@
   </properties>
   <windowLocation X="5" Y="5" />
   <windowSize width="1214" height="549" />
-  <windowZoom left="-90.07189447143249" right="-87.45217236983272" bottom="13.064173352282639" top="14.517238871023531" />
+  <windowZoom left="-90.15991923613018" right="-87.36414760513505" bottom="13.064173352282639" top="14.517238871023531" />
   <maximized>true</maximized>
   <layers>
     <category name="Trabajo">
@@ -61,20 +61,20 @@
                 <properties>
                   <properties>
                     <mapping>
-                      <key class="java.lang.String">LINE WIDTH</key>
-                      <value class="java.lang.Integer">2</value>
-                    </mapping>
-                    <mapping>
-                      <key class="java.lang.String">PATTERN WKT</key>
-                      <value class="java.lang.String">GEOMETRYCOLLECTION(POINT EMPTY, MULTILINESTRING ((-8.485281374238571 2.8284271247461894, 2.8284271247461907 -8.48528137423857), (-5.656854249492381 5.65685424949238, 5.656854249492381 -5.65685424949238), (-2.8284271247461907 8.48528137423857, 8.485281374238571 -2.8284271247461894)))</value>
-                    </mapping>
-                    <mapping>
                       <key class="java.lang.String">COLOR</key>
                       <value class="java.awt.Color">0, 102, 255, 255</value>
                     </mapping>
                     <mapping>
                       <key class="java.lang.String">EXTENT</key>
                       <value class="java.lang.Integer">6</value>
+                    </mapping>
+                    <mapping>
+                      <key class="java.lang.String">LINE WIDTH</key>
+                      <value class="java.lang.Integer">2</value>
+                    </mapping>
+                    <mapping>
+                      <key class="java.lang.String">PATTERN WKT</key>
+                      <value class="java.lang.String">GEOMETRYCOLLECTION(POINT EMPTY, MULTILINESTRING ((-8.485281374238571 2.8284271247461894, 2.8284271247461907 -8.48528137423857), (-5.656854249492381 5.65685424949238, 5.656854249492381 -5.65685424949238), (-2.8284271247461907 8.48528137423857, 8.485281374238571 -2.8284271247461894)))</value>
                     </mapping>
                   </properties>
                 </properties>
@@ -121,7 +121,6 @@
                 <color>0, 0, 255, 255</color>
               </line>
               <alpha>255</alpha>
-              <vertex-style class="com.vividsolutions.jump.workbench.ui.renderer.style.SquareVertexStyle" enabled="false" size="4" filling="true" />
             </default-style>
             <attribute-value-to-style-map class="java.util.TreeMap" />
             <attribute-value-to-label-map class="java.util.TreeMap" />
@@ -329,10 +328,6 @@
                   <mapping>
                     <key class="java.lang.String">FID</key>
                     <value class="java.lang.Integer">42</value>
-                  </mapping>
-                  <mapping>
-                    <key class="java.lang.String" />
-                    <value class="java.lang.Integer">16</value>
                   </mapping>
                   <mapping>
                     <key class="java.lang.String">X</key>
@@ -1925,10 +1920,6 @@
                     <value class="java.lang.Integer">42</value>
                   </mapping>
                   <mapping>
-                    <key class="java.lang.String" />
-                    <value class="java.lang.Integer">16</value>
-                  </mapping>
-                  <mapping>
                     <key class="java.lang.String">AREA</key>
                     <value class="java.lang.Integer">52</value>
                   </mapping>
@@ -2683,10 +2674,6 @@
                     <value class="java.lang.Integer">42</value>
                   </mapping>
                   <mapping>
-                    <key class="java.lang.String" />
-                    <value class="java.lang.Integer">16</value>
-                  </mapping>
-                  <mapping>
                     <key class="java.lang.String">NA3</key>
                     <value class="java.lang.Integer">45</value>
                   </mapping>
@@ -2905,10 +2892,6 @@
                     <value class="java.lang.Integer">42</value>
                   </mapping>
                   <mapping>
-                    <key class="java.lang.String" />
-                    <value class="java.lang.Integer">16</value>
-                  </mapping>
-                  <mapping>
                     <key class="java.lang.String">NA3</key>
                     <value class="java.lang.Integer">45</value>
                   </mapping>
@@ -3108,7 +3091,7 @@
         <feature-schema-operation>NULL</feature-schema-operation>
         <feature-schema-operation>NULL</feature-schema-operation>
       </layer>
-      <layer class="com.vividsolutions.jump.workbench.model.Layer" name="Deparatamentos" visible="true" editable="false" selectable="true" read-only="false" drawnLast="false" synchronizedLineColor="false">
+      <layer class="com.vividsolutions.jump.workbench.model.Layer" name="Departamentos" visible="true" editable="false" selectable="true" read-only="false" drawnLast="false" synchronizedLineColor="false">
         <scaleDependentRendering enabled="true">
           <minScale>0.0010583333333333334</minScale>
           <maxScale null="true" />
@@ -3128,10 +3111,6 @@
                   <mapping>
                     <key class="java.lang.String">FID</key>
                     <value class="java.lang.Integer">42</value>
-                  </mapping>
-                  <mapping>
-                    <key class="java.lang.String" />
-                    <value class="java.lang.Integer">16</value>
                   </mapping>
                   <mapping>
                     <key class="java.lang.String">NA3</key>
@@ -3635,10 +3614,6 @@
                   <mapping>
                     <key class="java.lang.String">FID</key>
                     <value class="java.lang.Integer">42</value>
-                  </mapping>
-                  <mapping>
-                    <key class="java.lang.String" />
-                    <value class="java.lang.Integer">16</value>
                   </mapping>
                   <mapping>
                     <key class="java.lang.String">PAIS_</key>
