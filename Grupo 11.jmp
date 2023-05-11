@@ -7,7 +7,7 @@
     </mapping>
     <mapping>
       <key class="javax.xml.namespace.QName">Project Date</key>
-      <value class="java.lang.String">2023/05/10 15:00:44</value>
+      <value class="java.lang.String">2023/05/10 16:27:07</value>
     </mapping>
     <mapping>
       <key class="javax.xml.namespace.QName">Project File</key>
@@ -24,7 +24,7 @@
   </properties>
   <windowLocation X="5" Y="5" />
   <windowSize width="1214" height="549" />
-  <windowZoom left="-89.30829092708595" right="-89.04657708099003" bottom="13.556822082275701" top="13.692844410180815" />
+  <windowZoom left="-89.34007908664066" right="-88.51799774174782" bottom="13.512221609219885" top="13.939487571368137" />
   <maximized>true</maximized>
   <layers>
     <category name="Trabajo">
@@ -1555,7 +1555,7 @@
               </mapping>
               <mapping>
                 <key class="java.lang.String">File</key>
-                <value class="java.lang.String">C:\Users\Alexander\Downloads\Grupo11SGG115\Vectorial\Plantas Eolicas\Plantas eolicas.shp</value>
+                <value class="java.lang.String">C:\Users\Alexander\Downloads\Grupo11SGG115\Poligonos\Plantas Eolicas\Plantas eolicas.shp</value>
               </mapping>
             </properties>
           </data-source>
@@ -1711,7 +1711,7 @@
               </mapping>
               <mapping>
                 <key class="java.lang.String">File</key>
-                <value class="java.lang.String">C:\Users\Alexander\Downloads\Grupo11SGG115\Vectorial\Plantas Solares\Plantas Solares.shp</value>
+                <value class="java.lang.String">C:\Users\Alexander\Downloads\Grupo11SGG115\Poligonos\Plantas Solares\Plantas Solares.shp</value>
               </mapping>
             </properties>
           </data-source>
@@ -1837,7 +1837,7 @@
               </mapping>
               <mapping>
                 <key class="java.lang.String">File</key>
-                <value class="java.lang.String">C:\Users\Alexander\Downloads\Grupo11SGG115\Vectorial\Rios\rios.shp</value>
+                <value class="java.lang.String">C:\Users\Alexander\Downloads\Grupo11SGG115\Poligonos\Rios\rios.shp</value>
               </mapping>
             </properties>
           </data-source>
@@ -1962,7 +1962,7 @@
               </mapping>
               <mapping>
                 <key class="java.lang.String">File</key>
-                <value class="java.lang.String">C:\Users\Alexander\Downloads\Grupo11SGG115\Vectorial\Lagos\lagos.shp</value>
+                <value class="java.lang.String">C:\Users\Alexander\Downloads\Grupo11SGG115\Poligonos\Lagos\lagos.shp</value>
               </mapping>
             </properties>
           </data-source>
@@ -2409,7 +2409,7 @@
               </mapping>
               <mapping>
                 <key class="java.lang.String">File</key>
-                <value class="java.lang.String">C:\Users\Alexander\Downloads\Grupo11SGG115\Vectorial\Colonias\colonias.shp</value>
+                <value class="java.lang.String">C:\Users\Alexander\Downloads\Grupo11SGG115\Poligonos\Colonias\colonias.shp</value>
               </mapping>
             </properties>
           </data-source>
@@ -2422,20 +2422,20 @@
                 <properties>
                   <properties>
                     <mapping>
-                      <key class="java.lang.String">LINE WIDTH</key>
-                      <value class="java.lang.Integer">2</value>
-                    </mapping>
-                    <mapping>
-                      <key class="java.lang.String">PATTERN WKT</key>
-                      <value class="java.lang.String">GEOMETRYCOLLECTION(POINT EMPTY, MULTILINESTRING ((-8.485281374238571 2.8284271247461894, 2.8284271247461907 -8.48528137423857), (-5.656854249492381 5.65685424949238, 5.656854249492381 -5.65685424949238), (-2.8284271247461907 8.48528137423857, 8.485281374238571 -2.8284271247461894)))</value>
-                    </mapping>
-                    <mapping>
                       <key class="java.lang.String">COLOR</key>
                       <value class="java.awt.Color">255, 127, 0, 55</value>
                     </mapping>
                     <mapping>
                       <key class="java.lang.String">EXTENT</key>
                       <value class="java.lang.Integer">6</value>
+                    </mapping>
+                    <mapping>
+                      <key class="java.lang.String">LINE WIDTH</key>
+                      <value class="java.lang.Integer">2</value>
+                    </mapping>
+                    <mapping>
+                      <key class="java.lang.String">PATTERN WKT</key>
+                      <value class="java.lang.String">GEOMETRYCOLLECTION(POINT EMPTY, MULTILINESTRING ((-8.485281374238571 2.8284271247461894, 2.8284271247461907 -8.48528137423857), (-5.656854249492381 5.65685424949238, 5.656854249492381 -5.65685424949238), (-2.8284271247461907 8.48528137423857, 8.485281374238571 -2.8284271247461894)))</value>
                     </mapping>
                   </properties>
                 </properties>
@@ -2457,14 +2457,6 @@
                   <properties>
                     <properties>
                       <mapping>
-                        <key class="java.lang.String">LINE WIDTH</key>
-                        <value class="java.lang.Integer">2</value>
-                      </mapping>
-                      <mapping>
-                        <key class="java.lang.String">PATTERN WKT</key>
-                        <value class="java.lang.String">GEOMETRYCOLLECTION(POINT EMPTY, MULTILINESTRING ((-8.485281374238571 2.8284271247461894, 2.8284271247461907 -8.48528137423857), (-5.656854249492381 5.65685424949238, 5.656854249492381 -5.65685424949238), (-2.8284271247461907 8.48528137423857, 8.485281374238571 -2.8284271247461894)))</value>
-                      </mapping>
-                      <mapping>
                         <key class="java.lang.String">COLOR</key>
                         <value class="java.awt.Color">255, 127, 0, 55</value>
                       </mapping>
@@ -2472,17 +2464,24 @@
                         <key class="java.lang.String">EXTENT</key>
                         <value class="java.lang.Integer">6</value>
                       </mapping>
+                      <mapping>
+                        <key class="java.lang.String">LINE WIDTH</key>
+                        <value class="java.lang.Integer">2</value>
+                      </mapping>
+                      <mapping>
+                        <key class="java.lang.String">PATTERN WKT</key>
+                        <value class="java.lang.String">GEOMETRYCOLLECTION(POINT EMPTY, MULTILINESTRING ((-8.485281374238571 2.8284271247461894, 2.8284271247461907 -8.48528137423857), (-5.656854249492381 5.65685424949238, 5.656854249492381 -5.65685424949238), (-2.8284271247461907 8.48528137423857, 8.485281374238571 -2.8284271247461894)))</value>
+                      </mapping>
                     </properties>
                   </properties>
                 </pattern>
-                <color>255, 127, 0, 55</color>
+                <color>255, 127, 0, 255</color>
               </fill>
               <line enabled="true" width="1" interior="false">
                 <pattern enabled="false">3</pattern>
                 <color>0, 0, 0, 255</color>
               </line>
               <alpha>55</alpha>
-              <vertex-style class="com.vividsolutions.jump.workbench.ui.renderer.style.SquareVertexStyle" enabled="false" size="4" filling="false" />
             </default-style>
             <attribute-value-to-style-map class="java.util.TreeMap" />
             <attribute-value-to-label-map class="java.util.TreeMap" />
@@ -2618,7 +2617,7 @@
               </mapping>
               <mapping>
                 <key class="java.lang.String">File</key>
-                <value class="java.lang.String">C:\Users\Alexander\Downloads\Grupo11SGG115\Vectorial\Municipios\municipios.shp</value>
+                <value class="java.lang.String">C:\Users\Alexander\Downloads\Grupo11SGG115\Poligonos\Municipios\municipios.shp</value>
               </mapping>
             </properties>
           </data-source>
@@ -2631,20 +2630,20 @@
                 <properties>
                   <properties>
                     <mapping>
-                      <key class="java.lang.String">LINE WIDTH</key>
-                      <value class="java.lang.Integer">2</value>
-                    </mapping>
-                    <mapping>
-                      <key class="java.lang.String">PATTERN WKT</key>
-                      <value class="java.lang.String">GEOMETRYCOLLECTION(POINT EMPTY, MULTILINESTRING ((-8.485281374238571 2.8284271247461894, 2.8284271247461907 -8.48528137423857), (-5.656854249492381 5.65685424949238, 5.656854249492381 -5.65685424949238), (-2.8284271247461907 8.48528137423857, 8.485281374238571 -2.8284271247461894)))</value>
-                    </mapping>
-                    <mapping>
                       <key class="java.lang.String">COLOR</key>
                       <value class="java.awt.Color">3, 3, 3, 55</value>
                     </mapping>
                     <mapping>
                       <key class="java.lang.String">EXTENT</key>
                       <value class="java.lang.Integer">6</value>
+                    </mapping>
+                    <mapping>
+                      <key class="java.lang.String">LINE WIDTH</key>
+                      <value class="java.lang.Integer">2</value>
+                    </mapping>
+                    <mapping>
+                      <key class="java.lang.String">PATTERN WKT</key>
+                      <value class="java.lang.String">GEOMETRYCOLLECTION(POINT EMPTY, MULTILINESTRING ((-8.485281374238571 2.8284271247461894, 2.8284271247461907 -8.48528137423857), (-5.656854249492381 5.65685424949238, 5.656854249492381 -5.65685424949238), (-2.8284271247461907 8.48528137423857, 8.485281374238571 -2.8284271247461894)))</value>
                     </mapping>
                   </properties>
                 </properties>
@@ -2666,14 +2665,6 @@
                   <properties>
                     <properties>
                       <mapping>
-                        <key class="java.lang.String">LINE WIDTH</key>
-                        <value class="java.lang.Integer">2</value>
-                      </mapping>
-                      <mapping>
-                        <key class="java.lang.String">PATTERN WKT</key>
-                        <value class="java.lang.String">GEOMETRYCOLLECTION(POINT EMPTY, MULTILINESTRING ((-8.485281374238571 2.8284271247461894, 2.8284271247461907 -8.48528137423857), (-5.656854249492381 5.65685424949238, 5.656854249492381 -5.65685424949238), (-2.8284271247461907 8.48528137423857, 8.485281374238571 -2.8284271247461894)))</value>
-                      </mapping>
-                      <mapping>
                         <key class="java.lang.String">COLOR</key>
                         <value class="java.awt.Color">3, 3, 3, 55</value>
                       </mapping>
@@ -2681,17 +2672,24 @@
                         <key class="java.lang.String">EXTENT</key>
                         <value class="java.lang.Integer">6</value>
                       </mapping>
+                      <mapping>
+                        <key class="java.lang.String">LINE WIDTH</key>
+                        <value class="java.lang.Integer">2</value>
+                      </mapping>
+                      <mapping>
+                        <key class="java.lang.String">PATTERN WKT</key>
+                        <value class="java.lang.String">GEOMETRYCOLLECTION(POINT EMPTY, MULTILINESTRING ((-8.485281374238571 2.8284271247461894, 2.8284271247461907 -8.48528137423857), (-5.656854249492381 5.65685424949238, 5.656854249492381 -5.65685424949238), (-2.8284271247461907 8.48528137423857, 8.485281374238571 -2.8284271247461894)))</value>
+                      </mapping>
                     </properties>
                   </properties>
                 </pattern>
-                <color>3, 3, 3, 55</color>
+                <color>3, 3, 3, 255</color>
               </fill>
               <line enabled="true" width="1" interior="false">
                 <pattern enabled="false">3</pattern>
                 <color>0, 0, 0, 255</color>
               </line>
               <alpha>55</alpha>
-              <vertex-style class="com.vividsolutions.jump.workbench.ui.renderer.style.SquareVertexStyle" enabled="false" size="4" filling="false" />
             </default-style>
             <attribute-value-to-style-map class="java.util.TreeMap" />
             <attribute-value-to-label-map class="java.util.TreeMap" />
@@ -2830,7 +2828,7 @@
               </mapping>
               <mapping>
                 <key class="java.lang.String">File</key>
-                <value class="java.lang.String">C:\Users\Alexander\Downloads\Grupo11SGG115\Vectorial\Departamentos\deparatamentos.shp</value>
+                <value class="java.lang.String">C:\Users\Alexander\Downloads\Grupo11SGG115\Poligonos\Departamentos\deparatamentos.shp</value>
               </mapping>
             </properties>
           </data-source>
@@ -2843,20 +2841,20 @@
                 <properties>
                   <properties>
                     <mapping>
-                      <key class="java.lang.String">LINE WIDTH</key>
-                      <value class="java.lang.Integer">2</value>
-                    </mapping>
-                    <mapping>
-                      <key class="java.lang.String">PATTERN WKT</key>
-                      <value class="java.lang.String">GEOMETRYCOLLECTION(POINT EMPTY, MULTILINESTRING ((-8.485281374238571 2.8284271247461894, 2.8284271247461907 -8.48528137423857), (-5.656854249492381 5.65685424949238, 5.656854249492381 -5.65685424949238), (-2.8284271247461907 8.48528137423857, 8.485281374238571 -2.8284271247461894)))</value>
-                    </mapping>
-                    <mapping>
                       <key class="java.lang.String">COLOR</key>
                       <value class="java.awt.Color">3, 3, 3, 55</value>
                     </mapping>
                     <mapping>
                       <key class="java.lang.String">EXTENT</key>
                       <value class="java.lang.Integer">6</value>
+                    </mapping>
+                    <mapping>
+                      <key class="java.lang.String">LINE WIDTH</key>
+                      <value class="java.lang.Integer">2</value>
+                    </mapping>
+                    <mapping>
+                      <key class="java.lang.String">PATTERN WKT</key>
+                      <value class="java.lang.String">GEOMETRYCOLLECTION(POINT EMPTY, MULTILINESTRING ((-8.485281374238571 2.8284271247461894, 2.8284271247461907 -8.48528137423857), (-5.656854249492381 5.65685424949238, 5.656854249492381 -5.65685424949238), (-2.8284271247461907 8.48528137423857, 8.485281374238571 -2.8284271247461894)))</value>
                     </mapping>
                   </properties>
                 </properties>
@@ -2878,14 +2876,6 @@
                   <properties>
                     <properties>
                       <mapping>
-                        <key class="java.lang.String">LINE WIDTH</key>
-                        <value class="java.lang.Integer">2</value>
-                      </mapping>
-                      <mapping>
-                        <key class="java.lang.String">PATTERN WKT</key>
-                        <value class="java.lang.String">GEOMETRYCOLLECTION(POINT EMPTY, MULTILINESTRING ((-8.485281374238571 2.8284271247461894, 2.8284271247461907 -8.48528137423857), (-5.656854249492381 5.65685424949238, 5.656854249492381 -5.65685424949238), (-2.8284271247461907 8.48528137423857, 8.485281374238571 -2.8284271247461894)))</value>
-                      </mapping>
-                      <mapping>
                         <key class="java.lang.String">COLOR</key>
                         <value class="java.awt.Color">3, 3, 3, 55</value>
                       </mapping>
@@ -2893,17 +2883,24 @@
                         <key class="java.lang.String">EXTENT</key>
                         <value class="java.lang.Integer">6</value>
                       </mapping>
+                      <mapping>
+                        <key class="java.lang.String">LINE WIDTH</key>
+                        <value class="java.lang.Integer">2</value>
+                      </mapping>
+                      <mapping>
+                        <key class="java.lang.String">PATTERN WKT</key>
+                        <value class="java.lang.String">GEOMETRYCOLLECTION(POINT EMPTY, MULTILINESTRING ((-8.485281374238571 2.8284271247461894, 2.8284271247461907 -8.48528137423857), (-5.656854249492381 5.65685424949238, 5.656854249492381 -5.65685424949238), (-2.8284271247461907 8.48528137423857, 8.485281374238571 -2.8284271247461894)))</value>
+                      </mapping>
                     </properties>
                   </properties>
                 </pattern>
-                <color>3, 3, 3, 55</color>
+                <color>3, 3, 3, 255</color>
               </fill>
               <line enabled="true" width="1" interior="false">
                 <pattern enabled="false">3</pattern>
                 <color>0, 0, 0, 255</color>
               </line>
               <alpha>55</alpha>
-              <vertex-style class="com.vividsolutions.jump.workbench.ui.renderer.style.SquareVertexStyle" enabled="false" size="4" filling="false" />
             </default-style>
             <attribute-value-to-style-map class="java.util.TreeMap">
               <mapping>
@@ -3281,7 +3278,7 @@
               </mapping>
               <mapping>
                 <key class="java.lang.String">File</key>
-                <value class="java.lang.String">C:\Users\Alexander\Downloads\Grupo11SGG115\Vectorial\El Salvador\el_salvador.shp</value>
+                <value class="java.lang.String">C:\Users\Alexander\Downloads\Grupo11SGG115\Poligonos\El Salvador\el_salvador.shp</value>
               </mapping>
             </properties>
           </data-source>
