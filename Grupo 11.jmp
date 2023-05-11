@@ -7,11 +7,11 @@
     </mapping>
     <mapping>
       <key class="javax.xml.namespace.QName">Project Date</key>
-      <value class="java.lang.String">2023/05/10 16:27:07</value>
+      <value class="java.lang.String">2023/05/10 22:34:34</value>
     </mapping>
     <mapping>
       <key class="javax.xml.namespace.QName">Project File</key>
-      <value class="java.lang.String">C:\Users\Alexander\Downloads\Grupo11SGG115\Grupo 11.jmp</value>
+      <value class="java.lang.String">C:\Grupo11SGG115\Grupo 11.jmp</value>
     </mapping>
     <mapping>
       <key class="javax.xml.namespace.QName">Project Unit</key>
@@ -24,7 +24,7 @@
   </properties>
   <windowLocation X="5" Y="5" />
   <windowSize width="1214" height="549" />
-  <windowZoom left="-89.34007908664066" right="-88.51799774174782" bottom="13.512221609219885" top="13.939487571368137" />
+  <windowZoom left="-90.33718108628149" right="-87.50100044640119" bottom="13.003539461246362" top="14.477607030657833" />
   <maximized>true</maximized>
   <layers>
     <category name="Trabajo">
@@ -81,7 +81,7 @@
               </mapping>
               <mapping>
                 <key class="java.lang.String">File</key>
-                <value class="java.lang.String">C:\Users\Alexander\Downloads\Grupo11SGG115\Puntos\Plantas Eolicas\Ubicacion-PlantasEolicas.shp</value>
+                <value class="java.lang.String">C:\Grupo11SGG115\Puntos\Plantas Eolicas\Ubicacion-PlantasEolicas.shp</value>
               </mapping>
             </properties>
           </data-source>
@@ -237,7 +237,7 @@
               </mapping>
               <mapping>
                 <key class="java.lang.String">File</key>
-                <value class="java.lang.String">C:\Users\Alexander\Downloads\Grupo11SGG115\Puntos\Plantas Solares\Ubicaciones-PlantasSolares.shp</value>
+                <value class="java.lang.String">C:\Grupo11SGG115\Puntos\Plantas Solares\Ubicaciones-PlantasSolares.shp</value>
               </mapping>
             </properties>
           </data-source>
@@ -338,6 +338,7 @@
         <feature-schema-operation>NULL</feature-schema-operation>
         <feature-schema-operation>NULL</feature-schema-operation>
         <feature-schema-operation>NULL</feature-schema-operation>
+        <feature-schema-operation>NULL</feature-schema-operation>
       </layer>
       <layer class="com.vividsolutions.jump.workbench.model.Layer" name="plantas_electricas_actuales" visible="true" editable="false" selectable="true" read-only="false" drawnLast="false" synchronizedLineColor="false">
         <scaleDependentRendering enabled="false">
@@ -400,7 +401,7 @@
               </mapping>
               <mapping>
                 <key class="java.lang.String">File</key>
-                <value class="java.lang.String">C:\Users\Alexander\Downloads\Grupo11SGG115\Puntos\Plantas energeticas actuales\plantas_electricas_actuales.shp</value>
+                <value class="java.lang.String">C:\Grupo11SGG115\Puntos\Plantas energeticas actuales\plantas_electricas_actuales.shp</value>
               </mapping>
             </properties>
           </data-source>
@@ -767,7 +768,7 @@
               </mapping>
               <mapping>
                 <key class="java.lang.String">File</key>
-                <value class="java.lang.String">C:\Users\Alexander\Downloads\Grupo11SGG115\Lineal\Conexiones\conexiones.shp</value>
+                <value class="java.lang.String">C:\Grupo11SGG115\Lineal\Conexiones\conexiones.shp</value>
               </mapping>
             </properties>
           </data-source>
@@ -886,7 +887,7 @@
               </mapping>
               <mapping>
                 <key class="java.lang.String">File</key>
-                <value class="java.lang.String">C:\Users\Alexander\Downloads\Grupo11SGG115\Lineal\Linea de transmision de 230 KV\linea_de_transmision_de_230KV.shp</value>
+                <value class="java.lang.String">C:\Grupo11SGG115\Lineal\Linea de transmision de 230 KV\linea_de_transmision_de_230KV.shp</value>
               </mapping>
             </properties>
           </data-source>
@@ -1006,7 +1007,7 @@
               </mapping>
               <mapping>
                 <key class="java.lang.String">File</key>
-                <value class="java.lang.String">C:\Users\Alexander\Downloads\Grupo11SGG115\Lineal\Nueva linea de transmision de 115 KV\nueva_linea_de_transmision_de_115KV.shp</value>
+                <value class="java.lang.String">C:\Grupo11SGG115\Lineal\Nueva linea de transmision de 115 KV\nueva_linea_de_transmision_de_115KV.shp</value>
               </mapping>
             </properties>
           </data-source>
@@ -1147,7 +1148,7 @@
               </mapping>
               <mapping>
                 <key class="java.lang.String">File</key>
-                <value class="java.lang.String">C:\Users\Alexander\Downloads\Grupo11SGG115\Lineal\Linea de transmision de 115 KV\linea de transmision de 115KV.shp</value>
+                <value class="java.lang.String">C:\Grupo11SGG115\Lineal\Linea de transmision de 115 KV\linea de transmision de 115KV.shp</value>
               </mapping>
             </properties>
           </data-source>
@@ -1376,7 +1377,7 @@
               </mapping>
               <mapping>
                 <key class="java.lang.String">File</key>
-                <value class="java.lang.String">C:\Users\Alexander\Downloads\Grupo11SGG115\Lineal\Carreteras\carreteras.shp</value>
+                <value class="java.lang.String">C:\Grupo11SGG115\Lineal\Carreteras\carreteras.shp</value>
               </mapping>
             </properties>
           </data-source>
@@ -1555,7 +1556,7 @@
               </mapping>
               <mapping>
                 <key class="java.lang.String">File</key>
-                <value class="java.lang.String">C:\Users\Alexander\Downloads\Grupo11SGG115\Poligonos\Plantas Eolicas\Plantas eolicas.shp</value>
+                <value class="java.lang.String">C:\Grupo11SGG115\Poligonos\Plantas Eolicas\Plantas eolicas.shp</value>
               </mapping>
             </properties>
           </data-source>
@@ -1711,7 +1712,7 @@
               </mapping>
               <mapping>
                 <key class="java.lang.String">File</key>
-                <value class="java.lang.String">C:\Users\Alexander\Downloads\Grupo11SGG115\Poligonos\Plantas Solares\Plantas Solares.shp</value>
+                <value class="java.lang.String">C:\Grupo11SGG115\Poligonos\Plantas Solares\Plantas Solares.shp</value>
               </mapping>
             </properties>
           </data-source>
@@ -1837,7 +1838,7 @@
               </mapping>
               <mapping>
                 <key class="java.lang.String">File</key>
-                <value class="java.lang.String">C:\Users\Alexander\Downloads\Grupo11SGG115\Poligonos\Rios\rios.shp</value>
+                <value class="java.lang.String">C:\Grupo11SGG115\Poligonos\Rios\rios.shp</value>
               </mapping>
             </properties>
           </data-source>
@@ -1962,7 +1963,7 @@
               </mapping>
               <mapping>
                 <key class="java.lang.String">File</key>
-                <value class="java.lang.String">C:\Users\Alexander\Downloads\Grupo11SGG115\Poligonos\Lagos\lagos.shp</value>
+                <value class="java.lang.String">C:\Grupo11SGG115\Poligonos\Lagos\lagos.shp</value>
               </mapping>
             </properties>
           </data-source>
@@ -2063,23 +2064,23 @@
         <feature-schema-operation>NULL</feature-schema-operation>
         <feature-schema-operation>NULL</feature-schema-operation>
       </layer>
-      <layer class="com.vividsolutions.jump.workbench.imagery.ReferencedImagesLayer" name="Distribuidores referenciado" visible="false" editable="false" selectable="true" read-only="false" drawnLast="false" synchronizedLineColor="true">
+      <layer class="com.vividsolutions.jump.workbench.imagery.ReferencedImagesLayer" name="radiacion_solar" visible="false" editable="false" selectable="true" read-only="false" drawnLast="false" synchronizedLineColor="true">
         <scaleDependentRendering enabled="false">
           <minScale null="true" />
           <maxScale null="true" />
         </scaleDependentRendering>
         <description />
         <data-source-query>
-          <query>C:\Users\Alexander\Downloads\Grupo11SGG115\Grupo 11\Distribuidores_referenciado.shp</query>
+          <query>C:\Grupo11SGG115\Grupo 11\radiacion_solar.shp</query>
           <data-source class="com.vividsolutions.jump.io.datasource.StandardReaderWriterFileDataSource$Shapefile">
             <properties class="java.util.HashMap">
               <mapping>
                 <key class="java.lang.String">Uri</key>
-                <value class="java.lang.String">file:/C:/Users/Alexander/Downloads/Grupo11SGG115/Grupo%2011/Distribuidores_referenciado.shp</value>
+                <value class="java.lang.String">file:/C:/Grupo11SGG115/Grupo%2011/radiacion_solar.shp</value>
               </mapping>
               <mapping>
                 <key class="java.lang.String">File</key>
-                <value class="java.lang.String">C:\Users\Alexander\Downloads\Grupo11SGG115\Grupo 11\Distribuidores_referenciado.shp</value>
+                <value class="java.lang.String">C:\Grupo11SGG115\Grupo 11\radiacion_solar.shp</value>
               </mapping>
             </properties>
           </data-source>
@@ -2128,6 +2129,7 @@
                 <color>134, 134, 134, 255</color>
               </line>
               <alpha>255</alpha>
+              <vertex-style class="com.vividsolutions.jump.workbench.ui.renderer.style.SquareVertexStyle" enabled="false" size="4" filling="true" />
             </default-style>
             <attribute-value-to-style-map class="java.util.HashMap" />
             <attribute-value-to-label-map class="java.util.HashMap" />
@@ -2141,23 +2143,23 @@
         <feature-schema-operation>NULL</feature-schema-operation>
         <feature-schema-operation>NULL</feature-schema-operation>
       </layer>
-      <layer class="com.vividsolutions.jump.workbench.imagery.ReferencedImagesLayer" name="radiacion_solar" visible="false" editable="false" selectable="true" read-only="false" drawnLast="false" synchronizedLineColor="true">
+      <layer class="com.vividsolutions.jump.workbench.imagery.ReferencedImagesLayer" name="Distribuidores referenciado" visible="false" editable="false" selectable="true" read-only="false" drawnLast="false" synchronizedLineColor="true">
         <scaleDependentRendering enabled="false">
           <minScale null="true" />
           <maxScale null="true" />
         </scaleDependentRendering>
         <description />
         <data-source-query>
-          <query>C:\Users\Alexander\Downloads\Grupo11SGG115\Grupo 11\radiacion_solar.shp</query>
+          <query>C:\Grupo11SGG115\Grupo 11\Distribuidores_referenciado.shp</query>
           <data-source class="com.vividsolutions.jump.io.datasource.StandardReaderWriterFileDataSource$Shapefile">
             <properties class="java.util.HashMap">
               <mapping>
                 <key class="java.lang.String">Uri</key>
-                <value class="java.lang.String">file:/C:/Users/Alexander/Downloads/Grupo11SGG115/Grupo%2011/radiacion_solar.shp</value>
+                <value class="java.lang.String">file:/C:/Grupo11SGG115/Grupo%2011/Distribuidores_referenciado.shp</value>
               </mapping>
               <mapping>
                 <key class="java.lang.String">File</key>
-                <value class="java.lang.String">C:\Users\Alexander\Downloads\Grupo11SGG115\Grupo 11\radiacion_solar.shp</value>
+                <value class="java.lang.String">C:\Grupo11SGG115\Grupo 11\Distribuidores_referenciado.shp</value>
               </mapping>
             </properties>
           </data-source>
@@ -2206,6 +2208,7 @@
                 <color>134, 134, 134, 255</color>
               </line>
               <alpha>255</alpha>
+              <vertex-style class="com.vividsolutions.jump.workbench.ui.renderer.style.SquareVertexStyle" enabled="false" size="4" filling="true" />
             </default-style>
             <attribute-value-to-style-map class="java.util.HashMap" />
             <attribute-value-to-label-map class="java.util.HashMap" />
@@ -2222,20 +2225,20 @@
       <layer class="com.vividsolutions.jump.workbench.imagery.ReferencedImagesLayer" name="El Salvador Referenciado" visible="true" editable="false" selectable="true" read-only="false" drawnLast="false" synchronizedLineColor="true">
         <scaleDependentRendering enabled="true">
           <minScale null="true" />
-          <maxScale>0.0029104166666666627</maxScale>
+          <maxScale>0.0029104166666666692</maxScale>
         </scaleDependentRendering>
         <description />
         <data-source-query>
-          <query>C:\Users\Alexander\Downloads\Grupo11SGG115\Grupo 11\El_Salvador_Referenciado.shp</query>
+          <query>C:\Grupo11SGG115\Grupo 11\El_Salvador_Referenciado.shp</query>
           <data-source class="com.vividsolutions.jump.io.datasource.StandardReaderWriterFileDataSource$Shapefile">
             <properties class="java.util.HashMap">
               <mapping>
                 <key class="java.lang.String">Uri</key>
-                <value class="java.lang.String">file:/C:/Users/Alexander/Downloads/Grupo11SGG115/Grupo%2011/El_Salvador_Referenciado.shp</value>
+                <value class="java.lang.String">file:/C:/Grupo11SGG115/Grupo%2011/El_Salvador_Referenciado.shp</value>
               </mapping>
               <mapping>
                 <key class="java.lang.String">File</key>
-                <value class="java.lang.String">C:\Users\Alexander\Downloads\Grupo11SGG115\Grupo 11\El_Salvador_Referenciado.shp</value>
+                <value class="java.lang.String">C:\Grupo11SGG115\Grupo 11\El_Salvador_Referenciado.shp</value>
               </mapping>
             </properties>
           </data-source>
@@ -2249,20 +2252,20 @@
                 <properties>
                   <properties>
                     <mapping>
-                      <key class="java.lang.String">COLOR</key>
-                      <value class="java.awt.Color">0, 0, 0, 150</value>
-                    </mapping>
-                    <mapping>
-                      <key class="java.lang.String">EXTENT</key>
-                      <value class="java.lang.Integer">6</value>
-                    </mapping>
-                    <mapping>
                       <key class="java.lang.String">LINE WIDTH</key>
                       <value class="java.lang.Integer">2</value>
                     </mapping>
                     <mapping>
                       <key class="java.lang.String">PATTERN WKT</key>
                       <value class="java.lang.String">GEOMETRYCOLLECTION(POINT EMPTY, MULTILINESTRING ((-8.485281374238571 2.8284271247461894, 2.8284271247461907 -8.48528137423857), (-5.656854249492381 5.65685424949238, 5.656854249492381 -5.65685424949238), (-2.8284271247461907 8.48528137423857, 8.485281374238571 -2.8284271247461894)))</value>
+                    </mapping>
+                    <mapping>
+                      <key class="java.lang.String">COLOR</key>
+                      <value class="java.awt.Color">0, 0, 0, 150</value>
+                    </mapping>
+                    <mapping>
+                      <key class="java.lang.String">EXTENT</key>
+                      <value class="java.lang.Integer">6</value>
                     </mapping>
                   </properties>
                 </properties>
@@ -2281,13 +2284,14 @@
             <default-style enabled="false">
               <fill enabled="false">
                 <pattern null="true" enabled="false" />
-                <color>0, 0, 0, 255</color>
+                <color>0, 0, 0, 150</color>
               </fill>
               <line enabled="true" width="1" interior="false">
                 <pattern enabled="false">3</pattern>
                 <color>0, 0, 0, 255</color>
               </line>
               <alpha>150</alpha>
+              <vertex-style class="com.vividsolutions.jump.workbench.ui.renderer.style.SquareVertexStyle" enabled="false" size="4" filling="true" />
             </default-style>
             <attribute-value-to-style-map class="java.util.TreeMap" />
             <attribute-value-to-label-map class="java.util.TreeMap" />
@@ -2409,7 +2413,7 @@
               </mapping>
               <mapping>
                 <key class="java.lang.String">File</key>
-                <value class="java.lang.String">C:\Users\Alexander\Downloads\Grupo11SGG115\Poligonos\Colonias\colonias.shp</value>
+                <value class="java.lang.String">C:\Grupo11SGG115\Poligonos\Colonias\colonias.shp</value>
               </mapping>
             </properties>
           </data-source>
@@ -2505,14 +2509,6 @@
             <horizontalPosition>LEFT_SIDE</horizontalPosition>
           </style>
         </styles>
-        <feature-schema-operation>NULL</feature-schema-operation>
-        <feature-schema-operation>NULL</feature-schema-operation>
-        <feature-schema-operation>NULL</feature-schema-operation>
-        <feature-schema-operation>NULL</feature-schema-operation>
-        <feature-schema-operation>NULL</feature-schema-operation>
-        <feature-schema-operation>NULL</feature-schema-operation>
-        <feature-schema-operation>NULL</feature-schema-operation>
-        <feature-schema-operation>NULL</feature-schema-operation>
         <feature-schema-operation>NULL</feature-schema-operation>
         <feature-schema-operation>NULL</feature-schema-operation>
         <feature-schema-operation>NULL</feature-schema-operation>
@@ -2617,7 +2613,7 @@
               </mapping>
               <mapping>
                 <key class="java.lang.String">File</key>
-                <value class="java.lang.String">C:\Users\Alexander\Downloads\Grupo11SGG115\Poligonos\Municipios\municipios.shp</value>
+                <value class="java.lang.String">C:\Grupo11SGG115\Poligonos\Municipios\municipios.shp</value>
               </mapping>
             </properties>
           </data-source>
@@ -2713,16 +2709,6 @@
             <horizontalPosition>CENTER</horizontalPosition>
           </style>
         </styles>
-        <feature-schema-operation>NULL</feature-schema-operation>
-        <feature-schema-operation>NULL</feature-schema-operation>
-        <feature-schema-operation>NULL</feature-schema-operation>
-        <feature-schema-operation>NULL</feature-schema-operation>
-        <feature-schema-operation>NULL</feature-schema-operation>
-        <feature-schema-operation>NULL</feature-schema-operation>
-        <feature-schema-operation>NULL</feature-schema-operation>
-        <feature-schema-operation>NULL</feature-schema-operation>
-        <feature-schema-operation>NULL</feature-schema-operation>
-        <feature-schema-operation>NULL</feature-schema-operation>
         <feature-schema-operation>NULL</feature-schema-operation>
         <feature-schema-operation>NULL</feature-schema-operation>
         <feature-schema-operation>NULL</feature-schema-operation>
@@ -2828,7 +2814,7 @@
               </mapping>
               <mapping>
                 <key class="java.lang.String">File</key>
-                <value class="java.lang.String">C:\Users\Alexander\Downloads\Grupo11SGG115\Poligonos\Departamentos\deparatamentos.shp</value>
+                <value class="java.lang.String">C:\Grupo11SGG115\Poligonos\Departamentos\deparatamentos.shp</value>
               </mapping>
             </properties>
           </data-source>
@@ -3217,17 +3203,6 @@
         <feature-schema-operation>NULL</feature-schema-operation>
         <feature-schema-operation>NULL</feature-schema-operation>
         <feature-schema-operation>NULL</feature-schema-operation>
-        <feature-schema-operation>NULL</feature-schema-operation>
-        <feature-schema-operation>NULL</feature-schema-operation>
-        <feature-schema-operation>NULL</feature-schema-operation>
-        <feature-schema-operation>NULL</feature-schema-operation>
-        <feature-schema-operation>NULL</feature-schema-operation>
-        <feature-schema-operation>NULL</feature-schema-operation>
-        <feature-schema-operation>NULL</feature-schema-operation>
-        <feature-schema-operation>NULL</feature-schema-operation>
-        <feature-schema-operation>NULL</feature-schema-operation>
-        <feature-schema-operation>NULL</feature-schema-operation>
-        <feature-schema-operation>NULL</feature-schema-operation>
       </layer>
       <layer class="com.vividsolutions.jump.workbench.model.Layer" name="el_salvador" visible="true" editable="false" selectable="true" read-only="false" drawnLast="false" synchronizedLineColor="false">
         <scaleDependentRendering enabled="false">
@@ -3278,7 +3253,7 @@
               </mapping>
               <mapping>
                 <key class="java.lang.String">File</key>
-                <value class="java.lang.String">C:\Users\Alexander\Downloads\Grupo11SGG115\Poligonos\El Salvador\el_salvador.shp</value>
+                <value class="java.lang.String">C:\Grupo11SGG115\Poligonos\El Salvador\el_salvador.shp</value>
               </mapping>
             </properties>
           </data-source>
@@ -3374,7 +3349,6 @@
             <horizontalPosition>CENTER</horizontalPosition>
           </style>
         </styles>
-        <feature-schema-operation>NULL</feature-schema-operation>
         <feature-schema-operation>NULL</feature-schema-operation>
         <feature-schema-operation>NULL</feature-schema-operation>
         <feature-schema-operation>NULL</feature-schema-operation>
