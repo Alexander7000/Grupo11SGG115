@@ -7,7 +7,7 @@
     </mapping>
     <mapping>
       <key class="javax.xml.namespace.QName">Project Date</key>
-      <value class="java.lang.String">2023/05/10 22:34:34</value>
+      <value class="java.lang.String">2023/05/11 14:42:26</value>
     </mapping>
     <mapping>
       <key class="javax.xml.namespace.QName">Project File</key>
@@ -24,11 +24,136 @@
   </properties>
   <windowLocation X="5" Y="5" />
   <windowSize width="1214" height="549" />
-  <windowZoom left="-90.33718108628149" right="-87.50100044640119" bottom="13.003539461246362" top="14.477607030657833" />
+  <windowZoom left="-90.07189447143249" right="-87.45217236983272" bottom="13.064173352282639" top="14.517238871023531" />
   <maximized>true</maximized>
   <layers>
     <category name="Trabajo">
-      <layer class="com.vividsolutions.jump.workbench.model.Layer" name="Ubicacion-PlantasEolicas" visible="true" editable="false" selectable="true" read-only="false" drawnLast="false" synchronizedLineColor="false">
+      <layer class="com.vividsolutions.jump.workbench.model.Layer" name="Ubicacion de plantas hidroelectricas" visible="true" editable="false" selectable="true" read-only="false" drawnLast="false" synchronizedLineColor="false">
+        <scaleDependentRendering enabled="false">
+          <minScale null="true" />
+          <maxScale null="true" />
+        </scaleDependentRendering>
+        <description />
+        <data-source-query>
+          <query null="true" />
+          <data-source class="com.vividsolutions.jump.io.datasource.StandardReaderWriterFileDataSource$Shapefile">
+            <properties class="java.util.HashMap">
+              <mapping>
+                <key class="java.lang.String">DataSourceClassName</key>
+                <value class="java.lang.String">com.vividsolutions.jump.io.datasource.StandardReaderWriterFileDataSource$Shapefile</value>
+              </mapping>
+              <mapping>
+                <key class="java.lang.String">Uri</key>
+                <value class="java.lang.String">file:/C:/Grupo11SGG115/Puntos/plantas%20hidroelectricas/puntos_plantas_hidroelectricas.shp</value>
+              </mapping>
+              <mapping>
+                <key class="java.lang.String">File</key>
+                <value class="java.lang.String">C:\Grupo11SGG115\Puntos\plantas hidroelectricas\puntos_plantas_hidroelectricas.shp</value>
+              </mapping>
+            </properties>
+          </data-source>
+        </data-source-query>
+        <styles>
+          <style class="org.openjump.core.ccordsys.srid.SRIDStyle" enabled="true" srid="4326" />
+          <style class="com.vividsolutions.jump.workbench.ui.renderer.style.BasicStyle" enabled="true">
+            <fill enabled="true">
+              <pattern class="com.vividsolutions.jump.workbench.ui.renderer.style.WKTFillPattern" enabled="false">
+                <properties>
+                  <properties>
+                    <mapping>
+                      <key class="java.lang.String">LINE WIDTH</key>
+                      <value class="java.lang.Integer">2</value>
+                    </mapping>
+                    <mapping>
+                      <key class="java.lang.String">PATTERN WKT</key>
+                      <value class="java.lang.String">GEOMETRYCOLLECTION(POINT EMPTY, MULTILINESTRING ((-8.485281374238571 2.8284271247461894, 2.8284271247461907 -8.48528137423857), (-5.656854249492381 5.65685424949238, 5.656854249492381 -5.65685424949238), (-2.8284271247461907 8.48528137423857, 8.485281374238571 -2.8284271247461894)))</value>
+                    </mapping>
+                    <mapping>
+                      <key class="java.lang.String">COLOR</key>
+                      <value class="java.awt.Color">0, 102, 255, 255</value>
+                    </mapping>
+                    <mapping>
+                      <key class="java.lang.String">EXTENT</key>
+                      <value class="java.lang.Integer">6</value>
+                    </mapping>
+                  </properties>
+                </properties>
+              </pattern>
+              <color>0, 102, 255, 255</color>
+            </fill>
+            <line enabled="true" width="4" interior="false">
+              <pattern enabled="false">3</pattern>
+              <color>0, 102, 255, 255</color>
+            </line>
+            <alpha>255</alpha>
+          </style>
+          <style class="com.vividsolutions.jump.workbench.ui.renderer.style.SquareVertexStyle" enabled="false" size="4" filling="true" />
+          <style class="com.vividsolutions.jump.workbench.ui.renderer.style.ColorThemingStyle" enabled="false" global-transparency-enabled="true" global-line-width-enabled="true" vertex-style-enabled="false">
+            <attribute-name>id</attribute-name>
+            <default-style enabled="true">
+              <fill enabled="true">
+                <pattern class="com.vividsolutions.jump.workbench.ui.renderer.style.WKTFillPattern" enabled="false">
+                  <properties>
+                    <properties>
+                      <mapping>
+                        <key class="java.lang.String">COLOR</key>
+                        <value class="java.awt.Color">0, 102, 255, 255</value>
+                      </mapping>
+                      <mapping>
+                        <key class="java.lang.String">EXTENT</key>
+                        <value class="java.lang.Integer">6</value>
+                      </mapping>
+                      <mapping>
+                        <key class="java.lang.String">LINE WIDTH</key>
+                        <value class="java.lang.Integer">2</value>
+                      </mapping>
+                      <mapping>
+                        <key class="java.lang.String">PATTERN WKT</key>
+                        <value class="java.lang.String">GEOMETRYCOLLECTION(POINT EMPTY, MULTILINESTRING ((-8.485281374238571 2.8284271247461894, 2.8284271247461907 -8.48528137423857), (-5.656854249492381 5.65685424949238, 5.656854249492381 -5.65685424949238), (-2.8284271247461907 8.48528137423857, 8.485281374238571 -2.8284271247461894)))</value>
+                      </mapping>
+                    </properties>
+                  </properties>
+                </pattern>
+                <color>0, 102, 255, 255</color>
+              </fill>
+              <line enabled="true" width="4" interior="false">
+                <pattern enabled="false">3</pattern>
+                <color>0, 0, 255, 255</color>
+              </line>
+              <alpha>255</alpha>
+              <vertex-style class="com.vividsolutions.jump.workbench.ui.renderer.style.SquareVertexStyle" enabled="false" size="4" filling="true" />
+            </default-style>
+            <attribute-value-to-style-map class="java.util.TreeMap" />
+            <attribute-value-to-label-map class="java.util.TreeMap" />
+          </style>
+          <style class="com.vividsolutions.jump.workbench.ui.renderer.style.LabelStyle" enabled="false">
+            <color>0, 0, 0, 255</color>
+            <attribute>$FID</attribute>
+            <angleAttribute />
+            <heightAttribute />
+            <font>Dialog, 0, 12</font>
+            <height>12.0</height>
+            <verticalAlignment>DEFAULT</verticalAlignment>
+            <scaled>false</scaled>
+            <overlappingLabelsHidden>true</overlappingLabelsHidden>
+            <outlineShowing>false</outlineShowing>
+            <outlineColor>230, 230, 230, 192</outlineColor>
+            <outlineWidth>4.0</outlineWidth>
+            <hideAtScale>false</hideAtScale>
+            <scaleToHideAt>20000.0</scaleToHideAt>
+            <horizontalAlignment>0</horizontalAlignment>
+            <horizontalPosition>CENTER</horizontalPosition>
+          </style>
+        </styles>
+        <feature-schema-operation>NULL</feature-schema-operation>
+        <feature-schema-operation>NULL</feature-schema-operation>
+        <feature-schema-operation>NULL</feature-schema-operation>
+        <feature-schema-operation>NULL</feature-schema-operation>
+        <feature-schema-operation>NULL</feature-schema-operation>
+        <feature-schema-operation>NULL</feature-schema-operation>
+        <feature-schema-operation>NULL</feature-schema-operation>
+      </layer>
+      <layer class="com.vividsolutions.jump.workbench.model.Layer" name="Ubicacion de plantas eolicas" visible="true" editable="false" selectable="true" read-only="false" drawnLast="false" synchronizedLineColor="false">
         <scaleDependentRendering enabled="false">
           <minScale null="true" />
           <maxScale null="true" />
@@ -184,7 +309,7 @@
         <feature-schema-operation>NULL</feature-schema-operation>
         <feature-schema-operation>NULL</feature-schema-operation>
       </layer>
-      <layer class="com.vividsolutions.jump.workbench.model.Layer" name="Ubicaciones-PlantasSolares" visible="true" editable="false" selectable="true" read-only="false" drawnLast="false" synchronizedLineColor="true">
+      <layer class="com.vividsolutions.jump.workbench.model.Layer" name="Ubicacion de plantas solares" visible="true" editable="false" selectable="true" read-only="false" drawnLast="false" synchronizedLineColor="true">
         <scaleDependentRendering enabled="false">
           <minScale null="true" />
           <maxScale null="true" />
@@ -206,6 +331,10 @@
                     <value class="java.lang.Integer">42</value>
                   </mapping>
                   <mapping>
+                    <key class="java.lang.String" />
+                    <value class="java.lang.Integer">16</value>
+                  </mapping>
+                  <mapping>
                     <key class="java.lang.String">X</key>
                     <value class="java.lang.Integer">105</value>
                   </mapping>
@@ -220,6 +349,10 @@
                   <mapping>
                     <key class="java.lang.String">NOMBRE</key>
                     <value class="java.lang.Integer">102</value>
+                  </mapping>
+                  <mapping>
+                    <key class="java.lang.String">TEMPERT</key>
+                    <value class="java.lang.Integer">70</value>
                   </mapping>
                 </value>
               </mapping>
@@ -340,7 +473,7 @@
         <feature-schema-operation>NULL</feature-schema-operation>
         <feature-schema-operation>NULL</feature-schema-operation>
       </layer>
-      <layer class="com.vividsolutions.jump.workbench.model.Layer" name="plantas_electricas_actuales" visible="true" editable="false" selectable="true" read-only="false" drawnLast="false" synchronizedLineColor="false">
+      <layer class="com.vividsolutions.jump.workbench.model.Layer" name="Ubicacion plantas electricas actuales" visible="true" editable="false" selectable="true" read-only="false" drawnLast="false" synchronizedLineColor="false">
         <scaleDependentRendering enabled="false">
           <minScale null="true" />
           <maxScale null="true" />
@@ -748,7 +881,7 @@
         <feature-schema-operation>NULL</feature-schema-operation>
         <feature-schema-operation>NULL</feature-schema-operation>
       </layer>
-      <layer class="com.vividsolutions.jump.workbench.model.Layer" name="conexiones" visible="true" editable="false" selectable="true" read-only="false" drawnLast="false" synchronizedLineColor="true">
+      <layer class="com.vividsolutions.jump.workbench.model.Layer" name="Conexiones" visible="true" editable="false" selectable="true" read-only="false" drawnLast="false" synchronizedLineColor="true">
         <scaleDependentRendering enabled="false">
           <minScale null="true" />
           <maxScale null="true" />
@@ -867,7 +1000,7 @@
         <feature-schema-operation>NULL</feature-schema-operation>
         <feature-schema-operation>NULL</feature-schema-operation>
       </layer>
-      <layer class="com.vividsolutions.jump.workbench.model.Layer" name="linea_de_transmision_de_230KV" visible="true" editable="false" selectable="true" read-only="false" drawnLast="false" synchronizedLineColor="true">
+      <layer class="com.vividsolutions.jump.workbench.model.Layer" name="Linea de transmision de 230KV" visible="true" editable="false" selectable="true" read-only="false" drawnLast="false" synchronizedLineColor="true">
         <scaleDependentRendering enabled="false">
           <minScale null="true" />
           <maxScale null="true" />
@@ -987,7 +1120,7 @@
         <feature-schema-operation>NULL</feature-schema-operation>
         <feature-schema-operation>NULL</feature-schema-operation>
       </layer>
-      <layer class="com.vividsolutions.jump.workbench.model.Layer" name="nueva_linea_de_transmision_de_115KV" visible="true" editable="false" selectable="true" read-only="false" drawnLast="false" synchronizedLineColor="false">
+      <layer class="com.vividsolutions.jump.workbench.model.Layer" name="Nueva linea de transmision de 115KV" visible="true" editable="false" selectable="true" read-only="false" drawnLast="false" synchronizedLineColor="false">
         <scaleDependentRendering enabled="false">
           <minScale null="true" />
           <maxScale null="true" />
@@ -1107,7 +1240,7 @@
         <feature-schema-operation>NULL</feature-schema-operation>
         <feature-schema-operation>NULL</feature-schema-operation>
       </layer>
-      <layer class="com.vividsolutions.jump.workbench.model.Layer" name="linea de transmision de 115KV" visible="true" editable="false" selectable="true" read-only="false" drawnLast="false" synchronizedLineColor="true">
+      <layer class="com.vividsolutions.jump.workbench.model.Layer" name="Linea de transmision de 115KV" visible="true" editable="false" selectable="true" read-only="false" drawnLast="false" synchronizedLineColor="true">
         <scaleDependentRendering enabled="false">
           <minScale null="true" />
           <maxScale null="true" />
@@ -1248,7 +1381,7 @@
         <feature-schema-operation>NULL</feature-schema-operation>
         <feature-schema-operation>NULL</feature-schema-operation>
       </layer>
-      <layer class="com.vividsolutions.jump.workbench.model.Layer" name="carreteras" visible="true" editable="false" selectable="true" read-only="false" drawnLast="false" synchronizedLineColor="false">
+      <layer class="com.vividsolutions.jump.workbench.model.Layer" name="Carreteras" visible="true" editable="false" selectable="true" read-only="false" drawnLast="false" synchronizedLineColor="false">
         <scaleDependentRendering enabled="true">
           <minScale>1.0583333333333114E-4</minScale>
           <maxScale null="true" />
@@ -1483,13 +1616,123 @@
         <feature-schema-operation>NULL</feature-schema-operation>
         <feature-schema-operation>NULL</feature-schema-operation>
         <feature-schema-operation>NULL</feature-schema-operation>
-        <feature-schema-operation>NULL</feature-schema-operation>
-        <feature-schema-operation>NULL</feature-schema-operation>
-        <feature-schema-operation>NULL</feature-schema-operation>
-        <feature-schema-operation>NULL</feature-schema-operation>
-        <feature-schema-operation>NULL</feature-schema-operation>
-        <feature-schema-operation>NULL</feature-schema-operation>
-        <feature-schema-operation>NULL</feature-schema-operation>
+      </layer>
+      <layer class="com.vividsolutions.jump.workbench.model.Layer" name="Plantas hidroelectricas" visible="true" editable="false" selectable="true" read-only="false" drawnLast="false" synchronizedLineColor="true">
+        <scaleDependentRendering enabled="false">
+          <minScale null="true" />
+          <maxScale null="true" />
+        </scaleDependentRendering>
+        <description />
+        <data-source-query>
+          <query null="true" />
+          <data-source class="com.vividsolutions.jump.io.datasource.StandardReaderWriterFileDataSource$Shapefile">
+            <properties class="java.util.HashMap">
+              <mapping>
+                <key class="java.lang.String">DataSourceClassName</key>
+                <value class="java.lang.String">com.vividsolutions.jump.io.datasource.StandardReaderWriterFileDataSource$Shapefile</value>
+              </mapping>
+              <mapping>
+                <key class="java.lang.String">Uri</key>
+                <value class="java.lang.String">file:/C:/Grupo11SGG115/Poligonos/Plantas%20hidroelectricas/Plantas_hidroelectricas.shp</value>
+              </mapping>
+              <mapping>
+                <key class="java.lang.String">File</key>
+                <value class="java.lang.String">C:\Grupo11SGG115\Poligonos\Plantas hidroelectricas\Plantas_hidroelectricas.shp</value>
+              </mapping>
+            </properties>
+          </data-source>
+        </data-source-query>
+        <styles>
+          <style class="org.openjump.core.ccordsys.srid.SRIDStyle" enabled="true" srid="4326" />
+          <style class="com.vividsolutions.jump.workbench.ui.renderer.style.BasicStyle" enabled="true">
+            <fill enabled="true">
+              <pattern class="com.vividsolutions.jump.workbench.ui.renderer.style.WKTFillPattern" enabled="false">
+                <properties>
+                  <properties>
+                    <mapping>
+                      <key class="java.lang.String">COLOR</key>
+                      <value class="java.awt.Color">153, 204, 255, 155</value>
+                    </mapping>
+                    <mapping>
+                      <key class="java.lang.String">EXTENT</key>
+                      <value class="java.lang.Integer">6</value>
+                    </mapping>
+                    <mapping>
+                      <key class="java.lang.String">LINE WIDTH</key>
+                      <value class="java.lang.Integer">2</value>
+                    </mapping>
+                    <mapping>
+                      <key class="java.lang.String">PATTERN WKT</key>
+                      <value class="java.lang.String">GEOMETRYCOLLECTION(POINT EMPTY, MULTILINESTRING ((-8.485281374238571 2.8284271247461894, 2.8284271247461907 -8.48528137423857), (-5.656854249492381 5.65685424949238, 5.656854249492381 -5.65685424949238), (-2.8284271247461907 8.48528137423857, 8.485281374238571 -2.8284271247461894)))</value>
+                    </mapping>
+                  </properties>
+                </properties>
+              </pattern>
+              <color>153, 204, 255, 255</color>
+            </fill>
+            <line enabled="true" width="1" interior="false">
+              <pattern enabled="false">3</pattern>
+              <color>107, 142, 178, 255</color>
+            </line>
+            <alpha>155</alpha>
+          </style>
+          <style class="com.vividsolutions.jump.workbench.ui.renderer.style.SquareVertexStyle" enabled="false" size="4" filling="true" />
+          <style class="com.vividsolutions.jump.workbench.ui.renderer.style.ColorThemingStyle" enabled="false" global-transparency-enabled="true" global-line-width-enabled="true" vertex-style-enabled="false">
+            <attribute-name>id</attribute-name>
+            <default-style enabled="true">
+              <fill enabled="true">
+                <pattern class="com.vividsolutions.jump.workbench.ui.renderer.style.WKTFillPattern" enabled="false">
+                  <properties>
+                    <properties>
+                      <mapping>
+                        <key class="java.lang.String">COLOR</key>
+                        <value class="java.awt.Color">0, 153, 255, 155</value>
+                      </mapping>
+                      <mapping>
+                        <key class="java.lang.String">EXTENT</key>
+                        <value class="java.lang.Integer">6</value>
+                      </mapping>
+                      <mapping>
+                        <key class="java.lang.String">LINE WIDTH</key>
+                        <value class="java.lang.Integer">2</value>
+                      </mapping>
+                      <mapping>
+                        <key class="java.lang.String">PATTERN WKT</key>
+                        <value class="java.lang.String">GEOMETRYCOLLECTION(POINT EMPTY, MULTILINESTRING ((-8.485281374238571 2.8284271247461894, 2.8284271247461907 -8.48528137423857), (-5.656854249492381 5.65685424949238, 5.656854249492381 -5.65685424949238), (-2.8284271247461907 8.48528137423857, 8.485281374238571 -2.8284271247461894)))</value>
+                      </mapping>
+                    </properties>
+                  </properties>
+                </pattern>
+                <color>0, 153, 255, 255</color>
+              </fill>
+              <line enabled="true" width="1" interior="false">
+                <pattern enabled="false">3</pattern>
+                <color>0, 107, 178, 255</color>
+              </line>
+              <alpha>155</alpha>
+            </default-style>
+            <attribute-value-to-style-map class="java.util.TreeMap" />
+            <attribute-value-to-label-map class="java.util.TreeMap" />
+          </style>
+          <style class="com.vividsolutions.jump.workbench.ui.renderer.style.LabelStyle" enabled="false">
+            <color>0, 0, 0, 255</color>
+            <attribute>$FID</attribute>
+            <angleAttribute />
+            <heightAttribute />
+            <font>Dialog, 0, 12</font>
+            <height>12.0</height>
+            <verticalAlignment>DEFAULT</verticalAlignment>
+            <scaled>false</scaled>
+            <overlappingLabelsHidden>true</overlappingLabelsHidden>
+            <outlineShowing>false</outlineShowing>
+            <outlineColor>230, 230, 230, 192</outlineColor>
+            <outlineWidth>4.0</outlineWidth>
+            <hideAtScale>false</hideAtScale>
+            <scaleToHideAt>20000.0</scaleToHideAt>
+            <horizontalAlignment>0</horizontalAlignment>
+            <horizontalPosition>CENTER</horizontalPosition>
+          </style>
+        </styles>
         <feature-schema-operation>NULL</feature-schema-operation>
         <feature-schema-operation>NULL</feature-schema-operation>
         <feature-schema-operation>NULL</feature-schema-operation>
@@ -1570,7 +1813,7 @@
                   <properties>
                     <mapping>
                       <key class="java.lang.String">COLOR</key>
-                      <value class="java.awt.Color">255, 204, 255, 183</value>
+                      <value class="java.awt.Color">255, 204, 255, 155</value>
                     </mapping>
                     <mapping>
                       <key class="java.lang.String">EXTENT</key>
@@ -1593,7 +1836,7 @@
               <pattern enabled="false">3</pattern>
               <color>178, 142, 178, 255</color>
             </line>
-            <alpha>183</alpha>
+            <alpha>155</alpha>
           </style>
           <style class="com.vividsolutions.jump.workbench.ui.renderer.style.SquareVertexStyle" enabled="false" size="4" filling="true" />
           <style class="com.vividsolutions.jump.workbench.ui.renderer.style.ColorThemingStyle" enabled="false" global-transparency-enabled="true" global-line-width-enabled="true" vertex-style-enabled="false">
@@ -1605,7 +1848,7 @@
                     <properties>
                       <mapping>
                         <key class="java.lang.String">COLOR</key>
-                        <value class="java.awt.Color">204, 204, 255, 183</value>
+                        <value class="java.awt.Color">255, 204, 255, 155</value>
                       </mapping>
                       <mapping>
                         <key class="java.lang.String">EXTENT</key>
@@ -1622,13 +1865,13 @@
                     </properties>
                   </properties>
                 </pattern>
-                <color>204, 204, 255, 255</color>
+                <color>255, 204, 255, 255</color>
               </fill>
               <line enabled="true" width="1" interior="false">
                 <pattern enabled="false">3</pattern>
-                <color>142, 142, 178, 255</color>
+                <color>178, 142, 178, 255</color>
               </line>
-              <alpha>183</alpha>
+              <alpha>155</alpha>
             </default-style>
             <attribute-value-to-style-map class="java.util.TreeMap" />
             <attribute-value-to-label-map class="java.util.TreeMap" />
@@ -1658,6 +1901,7 @@
         <feature-schema-operation>NULL</feature-schema-operation>
         <feature-schema-operation>NULL</feature-schema-operation>
         <feature-schema-operation>NULL</feature-schema-operation>
+        <feature-schema-operation>NULL</feature-schema-operation>
       </layer>
       <layer class="com.vividsolutions.jump.workbench.model.Layer" name="Plantas Solares" visible="true" editable="false" selectable="true" read-only="false" drawnLast="false" synchronizedLineColor="true">
         <scaleDependentRendering enabled="false">
@@ -1681,8 +1925,20 @@
                     <value class="java.lang.Integer">42</value>
                   </mapping>
                   <mapping>
+                    <key class="java.lang.String" />
+                    <value class="java.lang.Integer">16</value>
+                  </mapping>
+                  <mapping>
                     <key class="java.lang.String">AREA</key>
                     <value class="java.lang.Integer">52</value>
+                  </mapping>
+                  <mapping>
+                    <key class="java.lang.String">AreaKM2</key>
+                    <value class="java.lang.Integer">68</value>
+                  </mapping>
+                  <mapping>
+                    <key class="java.lang.String">PerimetrKM</key>
+                    <value class="java.lang.Integer">79</value>
                   </mapping>
                   <mapping>
                     <key class="java.lang.String">id</key>
@@ -1726,7 +1982,7 @@
                   <properties>
                     <mapping>
                       <key class="java.lang.String">COLOR</key>
-                      <value class="java.awt.Color">255, 204, 102, 150</value>
+                      <value class="java.awt.Color">255, 204, 102, 155</value>
                     </mapping>
                     <mapping>
                       <key class="java.lang.String">EXTENT</key>
@@ -1749,7 +2005,7 @@
               <pattern enabled="false">3</pattern>
               <color>178, 142, 71, 255</color>
             </line>
-            <alpha>150</alpha>
+            <alpha>155</alpha>
           </style>
           <style class="com.vividsolutions.jump.workbench.ui.renderer.style.SquareVertexStyle" enabled="false" size="4" filling="true" />
           <style class="com.vividsolutions.jump.workbench.ui.renderer.style.ColorThemingStyle" enabled="false" global-transparency-enabled="true" global-line-width-enabled="true" vertex-style-enabled="false">
@@ -1761,7 +2017,7 @@
                     <properties>
                       <mapping>
                         <key class="java.lang.String">COLOR</key>
-                        <value class="java.awt.Color">255, 102, 0, 150</value>
+                        <value class="java.awt.Color">255, 204, 102, 155</value>
                       </mapping>
                       <mapping>
                         <key class="java.lang.String">EXTENT</key>
@@ -1778,13 +2034,13 @@
                     </properties>
                   </properties>
                 </pattern>
-                <color>255, 102, 0, 255</color>
+                <color>255, 204, 102, 255</color>
               </fill>
               <line enabled="true" width="1" interior="false">
                 <pattern enabled="false">3</pattern>
-                <color>178, 71, 0, 255</color>
+                <color>178, 142, 71, 255</color>
               </line>
-              <alpha>150</alpha>
+              <alpha>155</alpha>
             </default-style>
             <attribute-value-to-style-map class="java.util.TreeMap" />
             <attribute-value-to-label-map class="java.util.TreeMap" />
@@ -1813,8 +2069,9 @@
         <feature-schema-operation>NULL</feature-schema-operation>
         <feature-schema-operation>NULL</feature-schema-operation>
         <feature-schema-operation>NULL</feature-schema-operation>
+        <feature-schema-operation>NULL</feature-schema-operation>
       </layer>
-      <layer class="com.vividsolutions.jump.workbench.model.Layer" name="rios" visible="true" editable="false" selectable="true" read-only="false" drawnLast="false" synchronizedLineColor="true">
+      <layer class="com.vividsolutions.jump.workbench.model.Layer" name="Rios" visible="true" editable="false" selectable="true" read-only="false" drawnLast="false" synchronizedLineColor="true">
         <scaleDependentRendering enabled="false">
           <minScale null="true" />
           <maxScale null="true" />
@@ -1824,6 +2081,31 @@
           <query null="true" />
           <data-source class="com.vividsolutions.jump.io.datasource.StandardReaderWriterFileDataSource$Shapefile">
             <properties class="java.util.HashMap">
+              <mapping>
+                <key class="java.lang.String">AttributeColumnsWidthMap</key>
+                <value class="java.util.HashMap">
+                  <mapping>
+                    <key class="java.lang.String" />
+                    <value class="java.lang.Integer">16</value>
+                  </mapping>
+                  <mapping>
+                    <key class="java.lang.String">FID</key>
+                    <value class="java.lang.Integer">42</value>
+                  </mapping>
+                  <mapping>
+                    <key class="java.lang.String">areaM2</key>
+                    <value class="java.lang.Integer">61</value>
+                  </mapping>
+                  <mapping>
+                    <key class="java.lang.String">perimetroM</key>
+                    <value class="java.lang.Integer">79</value>
+                  </mapping>
+                  <mapping>
+                    <key class="java.lang.String">NOM</key>
+                    <value class="java.lang.Integer">89</value>
+                  </mapping>
+                </value>
+              </mapping>
               <mapping>
                 <key class="java.lang.String">charset</key>
                 <value class="java.lang.String">windows-1252</value>
@@ -1939,7 +2221,7 @@
         <feature-schema-operation>NULL</feature-schema-operation>
         <feature-schema-operation>NULL</feature-schema-operation>
       </layer>
-      <layer class="com.vividsolutions.jump.workbench.model.Layer" name="lagos" visible="true" editable="false" selectable="true" read-only="false" drawnLast="false" synchronizedLineColor="true">
+      <layer class="com.vividsolutions.jump.workbench.model.Layer" name="Lagos" visible="true" editable="false" selectable="true" read-only="false" drawnLast="false" synchronizedLineColor="true">
         <scaleDependentRendering enabled="false">
           <minScale null="true" />
           <maxScale null="true" />
@@ -1949,6 +2231,31 @@
           <query null="true" />
           <data-source class="com.vividsolutions.jump.io.datasource.StandardReaderWriterFileDataSource$Shapefile">
             <properties class="java.util.HashMap">
+              <mapping>
+                <key class="java.lang.String">AttributeColumnsWidthMap</key>
+                <value class="java.util.HashMap">
+                  <mapping>
+                    <key class="java.lang.String" />
+                    <value class="java.lang.Integer">16</value>
+                  </mapping>
+                  <mapping>
+                    <key class="java.lang.String">FID</key>
+                    <value class="java.lang.Integer">42</value>
+                  </mapping>
+                  <mapping>
+                    <key class="java.lang.String">AreaKM2</key>
+                    <value class="java.lang.Integer">68</value>
+                  </mapping>
+                  <mapping>
+                    <key class="java.lang.String">PerimetrKM</key>
+                    <value class="java.lang.Integer">79</value>
+                  </mapping>
+                  <mapping>
+                    <key class="java.lang.String">NOM</key>
+                    <value class="java.lang.Integer">140</value>
+                  </mapping>
+                </value>
+              </mapping>
               <mapping>
                 <key class="java.lang.String">charset</key>
                 <value class="java.lang.String">windows-1252</value>
@@ -2064,7 +2371,7 @@
         <feature-schema-operation>NULL</feature-schema-operation>
         <feature-schema-operation>NULL</feature-schema-operation>
       </layer>
-      <layer class="com.vividsolutions.jump.workbench.imagery.ReferencedImagesLayer" name="radiacion_solar" visible="false" editable="false" selectable="true" read-only="false" drawnLast="false" synchronizedLineColor="true">
+      <layer class="com.vividsolutions.jump.workbench.imagery.ReferencedImagesLayer" name="Radiacion solar" visible="false" editable="false" selectable="true" read-only="false" drawnLast="false" synchronizedLineColor="true">
         <scaleDependentRendering enabled="false">
           <minScale null="true" />
           <maxScale null="true" />
@@ -2129,7 +2436,6 @@
                 <color>134, 134, 134, 255</color>
               </line>
               <alpha>255</alpha>
-              <vertex-style class="com.vividsolutions.jump.workbench.ui.renderer.style.SquareVertexStyle" enabled="false" size="4" filling="true" />
             </default-style>
             <attribute-value-to-style-map class="java.util.HashMap" />
             <attribute-value-to-label-map class="java.util.HashMap" />
@@ -2208,7 +2514,6 @@
                 <color>134, 134, 134, 255</color>
               </line>
               <alpha>255</alpha>
-              <vertex-style class="com.vividsolutions.jump.workbench.ui.renderer.style.SquareVertexStyle" enabled="false" size="4" filling="true" />
             </default-style>
             <attribute-value-to-style-map class="java.util.HashMap" />
             <attribute-value-to-label-map class="java.util.HashMap" />
@@ -2222,7 +2527,7 @@
         <feature-schema-operation>NULL</feature-schema-operation>
         <feature-schema-operation>NULL</feature-schema-operation>
       </layer>
-      <layer class="com.vividsolutions.jump.workbench.imagery.ReferencedImagesLayer" name="El Salvador Referenciado" visible="true" editable="false" selectable="true" read-only="false" drawnLast="false" synchronizedLineColor="true">
+      <layer class="com.vividsolutions.jump.workbench.imagery.ReferencedImagesLayer" name="El Salvador eferenciado" visible="true" editable="false" selectable="true" read-only="false" drawnLast="false" synchronizedLineColor="true">
         <scaleDependentRendering enabled="true">
           <minScale null="true" />
           <maxScale>0.0029104166666666692</maxScale>
@@ -2232,6 +2537,39 @@
           <query>C:\Grupo11SGG115\Grupo 11\El_Salvador_Referenciado.shp</query>
           <data-source class="com.vividsolutions.jump.io.datasource.StandardReaderWriterFileDataSource$Shapefile">
             <properties class="java.util.HashMap">
+              <mapping>
+                <key class="java.lang.String">AttributeColumnsWidthMap</key>
+                <value class="java.util.HashMap">
+                  <mapping>
+                    <key class="java.lang.String" />
+                    <value class="java.lang.Integer">16</value>
+                  </mapping>
+                  <mapping>
+                    <key class="java.lang.String">FID</key>
+                    <value class="java.lang.Integer">42</value>
+                  </mapping>
+                  <mapping>
+                    <key class="java.lang.String">IMG_URI</key>
+                    <value class="java.lang.Integer">200</value>
+                  </mapping>
+                  <mapping>
+                    <key class="java.lang.String">IMG_FACT</key>
+                    <value class="java.lang.Integer">200</value>
+                  </mapping>
+                  <mapping>
+                    <key class="java.lang.String">IMGERROR</key>
+                    <value class="java.lang.Integer">79</value>
+                  </mapping>
+                  <mapping>
+                    <key class="java.lang.String">IMGLOADR</key>
+                    <value class="java.lang.Integer">200</value>
+                  </mapping>
+                  <mapping>
+                    <key class="java.lang.String">IMG_TYPE</key>
+                    <value class="java.lang.Integer">74</value>
+                  </mapping>
+                </value>
+              </mapping>
               <mapping>
                 <key class="java.lang.String">Uri</key>
                 <value class="java.lang.String">file:/C:/Grupo11SGG115/Grupo%2011/El_Salvador_Referenciado.shp</value>
@@ -2252,20 +2590,20 @@
                 <properties>
                   <properties>
                     <mapping>
-                      <key class="java.lang.String">LINE WIDTH</key>
-                      <value class="java.lang.Integer">2</value>
-                    </mapping>
-                    <mapping>
-                      <key class="java.lang.String">PATTERN WKT</key>
-                      <value class="java.lang.String">GEOMETRYCOLLECTION(POINT EMPTY, MULTILINESTRING ((-8.485281374238571 2.8284271247461894, 2.8284271247461907 -8.48528137423857), (-5.656854249492381 5.65685424949238, 5.656854249492381 -5.65685424949238), (-2.8284271247461907 8.48528137423857, 8.485281374238571 -2.8284271247461894)))</value>
-                    </mapping>
-                    <mapping>
                       <key class="java.lang.String">COLOR</key>
                       <value class="java.awt.Color">0, 0, 0, 150</value>
                     </mapping>
                     <mapping>
                       <key class="java.lang.String">EXTENT</key>
                       <value class="java.lang.Integer">6</value>
+                    </mapping>
+                    <mapping>
+                      <key class="java.lang.String">LINE WIDTH</key>
+                      <value class="java.lang.Integer">2</value>
+                    </mapping>
+                    <mapping>
+                      <key class="java.lang.String">PATTERN WKT</key>
+                      <value class="java.lang.String">GEOMETRYCOLLECTION(POINT EMPTY, MULTILINESTRING ((-8.485281374238571 2.8284271247461894, 2.8284271247461907 -8.48528137423857), (-5.656854249492381 5.65685424949238, 5.656854249492381 -5.65685424949238), (-2.8284271247461907 8.48528137423857, 8.485281374238571 -2.8284271247461894)))</value>
                     </mapping>
                   </properties>
                 </properties>
@@ -2284,14 +2622,13 @@
             <default-style enabled="false">
               <fill enabled="false">
                 <pattern null="true" enabled="false" />
-                <color>0, 0, 0, 150</color>
+                <color>0, 0, 0, 255</color>
               </fill>
               <line enabled="true" width="1" interior="false">
                 <pattern enabled="false">3</pattern>
                 <color>0, 0, 0, 255</color>
               </line>
               <alpha>150</alpha>
-              <vertex-style class="com.vividsolutions.jump.workbench.ui.renderer.style.SquareVertexStyle" enabled="false" size="4" filling="true" />
             </default-style>
             <attribute-value-to-style-map class="java.util.TreeMap" />
             <attribute-value-to-label-map class="java.util.TreeMap" />
@@ -2324,7 +2661,7 @@
       </layer>
     </category>
     <category name="Sistema">
-      <layer class="com.vividsolutions.jump.workbench.model.Layer" name="colonias" visible="true" editable="false" selectable="true" read-only="false" drawnLast="false" synchronizedLineColor="false">
+      <layer class="com.vividsolutions.jump.workbench.model.Layer" name="Colonias" visible="true" editable="false" selectable="true" read-only="false" drawnLast="false" synchronizedLineColor="false">
         <scaleDependentRendering enabled="true">
           <minScale>6.614583333333334E-5</minScale>
           <maxScale null="true" />
@@ -2346,6 +2683,10 @@
                     <value class="java.lang.Integer">42</value>
                   </mapping>
                   <mapping>
+                    <key class="java.lang.String" />
+                    <value class="java.lang.Integer">16</value>
+                  </mapping>
+                  <mapping>
                     <key class="java.lang.String">NA3</key>
                     <value class="java.lang.Integer">45</value>
                   </mapping>
@@ -2362,8 +2703,24 @@
                     <value class="java.lang.Integer">59</value>
                   </mapping>
                   <mapping>
+                    <key class="java.lang.String">PerimetrKM</key>
+                    <value class="java.lang.Integer">79</value>
+                  </mapping>
+                  <mapping>
+                    <key class="java.lang.String">CP</key>
+                    <value class="java.lang.Integer">43</value>
+                  </mapping>
+                  <mapping>
+                    <key class="java.lang.String">nombre</key>
+                    <value class="java.lang.Integer">66</value>
+                  </mapping>
+                  <mapping>
                     <key class="java.lang.String">CCN</key>
                     <value class="java.lang.Integer">200</value>
+                  </mapping>
+                  <mapping>
+                    <key class="java.lang.String">Municipio</key>
+                    <value class="java.lang.Integer">87</value>
                   </mapping>
                   <mapping>
                     <key class="java.lang.String">UID</key>
@@ -2386,8 +2743,16 @@
                     <value class="java.lang.Integer">47</value>
                   </mapping>
                   <mapping>
+                    <key class="java.lang.String">AreaKM2</key>
+                    <value class="java.lang.Integer">68</value>
+                  </mapping>
+                  <mapping>
                     <key class="java.lang.String">NAM</key>
                     <value class="java.lang.Integer">66</value>
+                  </mapping>
+                  <mapping>
+                    <key class="java.lang.String">cod_depart</key>
+                    <value class="java.lang.Integer">80</value>
                   </mapping>
                   <mapping>
                     <key class="java.lang.String">NA2</key>
@@ -2515,8 +2880,10 @@
         <feature-schema-operation>NULL</feature-schema-operation>
         <feature-schema-operation>NULL</feature-schema-operation>
         <feature-schema-operation>NULL</feature-schema-operation>
+        <feature-schema-operation>NULL</feature-schema-operation>
+        <feature-schema-operation>NULL</feature-schema-operation>
       </layer>
-      <layer class="com.vividsolutions.jump.workbench.model.Layer" name="municipios" visible="true" editable="false" selectable="true" read-only="false" drawnLast="false" synchronizedLineColor="false">
+      <layer class="com.vividsolutions.jump.workbench.model.Layer" name="Municipios" visible="true" editable="false" selectable="true" read-only="false" drawnLast="false" synchronizedLineColor="false">
         <scaleDependentRendering enabled="true">
           <minScale>1.719791666666667E-4</minScale>
           <maxScale null="true" />
@@ -2538,6 +2905,10 @@
                     <value class="java.lang.Integer">42</value>
                   </mapping>
                   <mapping>
+                    <key class="java.lang.String" />
+                    <value class="java.lang.Integer">16</value>
+                  </mapping>
+                  <mapping>
                     <key class="java.lang.String">NA3</key>
                     <value class="java.lang.Integer">45</value>
                   </mapping>
@@ -2554,8 +2925,20 @@
                     <value class="java.lang.Integer">59</value>
                   </mapping>
                   <mapping>
+                    <key class="java.lang.String">PerimetrKM</key>
+                    <value class="java.lang.Integer">79</value>
+                  </mapping>
+                  <mapping>
                     <key class="java.lang.String">PPL</key>
                     <value class="java.lang.Integer">42</value>
+                  </mapping>
+                  <mapping>
+                    <key class="java.lang.String">CP</key>
+                    <value class="java.lang.Integer">38</value>
+                  </mapping>
+                  <mapping>
+                    <key class="java.lang.String">nombre</key>
+                    <value class="java.lang.Integer">107</value>
                   </mapping>
                   <mapping>
                     <key class="java.lang.String">CCN</key>
@@ -2590,8 +2973,16 @@
                     <value class="java.lang.Integer">72</value>
                   </mapping>
                   <mapping>
+                    <key class="java.lang.String">AreaKM2</key>
+                    <value class="java.lang.Integer">68</value>
+                  </mapping>
+                  <mapping>
                     <key class="java.lang.String">NAM</key>
                     <value class="java.lang.Integer">107</value>
+                  </mapping>
+                  <mapping>
+                    <key class="java.lang.String">cod_depart</key>
+                    <value class="java.lang.Integer">80</value>
                   </mapping>
                   <mapping>
                     <key class="java.lang.String">NA2</key>
@@ -2717,7 +3108,7 @@
         <feature-schema-operation>NULL</feature-schema-operation>
         <feature-schema-operation>NULL</feature-schema-operation>
       </layer>
-      <layer class="com.vividsolutions.jump.workbench.model.Layer" name="deparatamentos" visible="true" editable="false" selectable="true" read-only="false" drawnLast="false" synchronizedLineColor="false">
+      <layer class="com.vividsolutions.jump.workbench.model.Layer" name="Deparatamentos" visible="true" editable="false" selectable="true" read-only="false" drawnLast="false" synchronizedLineColor="false">
         <scaleDependentRendering enabled="true">
           <minScale>0.0010583333333333334</minScale>
           <maxScale null="true" />
@@ -2739,6 +3130,10 @@
                     <value class="java.lang.Integer">42</value>
                   </mapping>
                   <mapping>
+                    <key class="java.lang.String" />
+                    <value class="java.lang.Integer">16</value>
+                  </mapping>
+                  <mapping>
                     <key class="java.lang.String">NA3</key>
                     <value class="java.lang.Integer">45</value>
                   </mapping>
@@ -2753,6 +3148,14 @@
                   <mapping>
                     <key class="java.lang.String">FCODE</key>
                     <value class="java.lang.Integer">59</value>
+                  </mapping>
+                  <mapping>
+                    <key class="java.lang.String">PerimetrKM</key>
+                    <value class="java.lang.Integer">79</value>
+                  </mapping>
+                  <mapping>
+                    <key class="java.lang.String">nombre</key>
+                    <value class="java.lang.Integer">61</value>
                   </mapping>
                   <mapping>
                     <key class="java.lang.String">CCN</key>
@@ -2787,12 +3190,20 @@
                     <value class="java.lang.Integer">72</value>
                   </mapping>
                   <mapping>
+                    <key class="java.lang.String">AreaKM2</key>
+                    <value class="java.lang.Integer">68</value>
+                  </mapping>
+                  <mapping>
                     <key class="java.lang.String">IC5</key>
                     <value class="java.lang.Integer">42</value>
                   </mapping>
                   <mapping>
                     <key class="java.lang.String">NAM</key>
                     <value class="java.lang.Integer">48</value>
+                  </mapping>
+                  <mapping>
+                    <key class="java.lang.String">cod_depart</key>
+                    <value class="java.lang.Integer">80</value>
                   </mapping>
                   <mapping>
                     <key class="java.lang.String">NA2</key>
@@ -2814,7 +3225,7 @@
               </mapping>
               <mapping>
                 <key class="java.lang.String">File</key>
-                <value class="java.lang.String">C:\Grupo11SGG115\Poligonos\Departamentos\deparatamentos.shp</value>
+                <value class="java.lang.String">C:\Grupo11SGG115\Poligonos\Departamentos\departamentos.shp</value>
               </mapping>
             </properties>
           </data-source>
@@ -3204,7 +3615,7 @@
         <feature-schema-operation>NULL</feature-schema-operation>
         <feature-schema-operation>NULL</feature-schema-operation>
       </layer>
-      <layer class="com.vividsolutions.jump.workbench.model.Layer" name="el_salvador" visible="true" editable="false" selectable="true" read-only="false" drawnLast="false" synchronizedLineColor="false">
+      <layer class="com.vividsolutions.jump.workbench.model.Layer" name="El Salvador" visible="true" editable="false" selectable="true" read-only="false" drawnLast="false" synchronizedLineColor="false">
         <scaleDependentRendering enabled="false">
           <minScale null="true" />
           <maxScale null="true" />
@@ -3226,8 +3637,16 @@
                     <value class="java.lang.Integer">42</value>
                   </mapping>
                   <mapping>
+                    <key class="java.lang.String" />
+                    <value class="java.lang.Integer">16</value>
+                  </mapping>
+                  <mapping>
                     <key class="java.lang.String">PAIS_</key>
                     <value class="java.lang.Integer">74</value>
+                  </mapping>
+                  <mapping>
+                    <key class="java.lang.String">areaKM2</key>
+                    <value class="java.lang.Integer">67</value>
                   </mapping>
                   <mapping>
                     <key class="java.lang.String">Shape__Are</key>
@@ -3236,6 +3655,10 @@
                   <mapping>
                     <key class="java.lang.String">Shape__Len</key>
                     <value class="java.lang.Integer">89</value>
+                  </mapping>
+                  <mapping>
+                    <key class="java.lang.String">Pais</key>
+                    <value class="java.lang.Integer">74</value>
                   </mapping>
                 </value>
               </mapping>
