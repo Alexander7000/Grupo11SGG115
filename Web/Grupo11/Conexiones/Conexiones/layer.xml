@@ -1,0 +1,17 @@
+<layer>
+  <name>Conexiones</name>
+  <id>LayerInfoImpl-d62d16f:1880785f25e:-7eda</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-d62d16f:1880785f25e:-7ed9</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-d62d16f:1880785f25e:-7edb</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2023-05-11 22:12:20.754 UTC</dateCreated>
+  <dateModified>2023-05-11 22:14:05.989 UTC</dateModified>
+</layer>

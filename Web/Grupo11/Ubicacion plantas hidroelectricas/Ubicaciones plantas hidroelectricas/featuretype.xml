@@ -1,0 +1,57 @@
+<featureType>
+  <id>FeatureTypeInfoImpl-d62d16f:1880785f25e:-7ebe</id>
+  <name>Ubicaciones plantas hidroelectricas</name>
+  <nativeName>puntos_plantas_hidroelectricas</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl-76d764dc:187fc53a6f3:-7fff</id>
+  </namespace>
+  <title>puntos_plantas_hidroelectricas</title>
+  <abstract>Capa de las ubicaciones de las plantas hidraulicas que se pódrian implementar en El Salvador</abstract>
+  <keywords>
+    <string>features</string>
+    <string>puntos_plantas_hidroelectricas</string>
+  </keywords>
+  <nativeCRS>GEOGCS[&quot;WGS 84&quot;, &#xd;
+  DATUM[&quot;World Geodetic System 1984&quot;, &#xd;
+    SPHEROID[&quot;WGS 84&quot;, 6378137.0, 298.257223563, AUTHORITY[&quot;EPSG&quot;,&quot;7030&quot;]], &#xd;
+    AUTHORITY[&quot;EPSG&quot;,&quot;6326&quot;]], &#xd;
+  PRIMEM[&quot;Greenwich&quot;, 0.0, AUTHORITY[&quot;EPSG&quot;,&quot;8901&quot;]], &#xd;
+  UNIT[&quot;degree&quot;, 0.017453292519943295], &#xd;
+  AXIS[&quot;Geodetic longitude&quot;, EAST], &#xd;
+  AXIS[&quot;Geodetic latitude&quot;, NORTH], &#xd;
+  AUTHORITY[&quot;EPSG&quot;,&quot;4326&quot;]]</nativeCRS>
+  <srs>EPSG:5393</srs>
+  <nativeBoundingBox>
+    <minx>-88.7059522845847</minx>
+    <maxx>-88.04188945431257</maxx>
+    <miny>13.315377790387572</miny>
+    <maxy>13.841970147311612</maxy>
+    <crs>EPSG:4326</crs>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>-88.7059522845847</minx>
+    <maxx>-88.04188945431257</maxx>
+    <miny>13.315377793720158</miny>
+    <maxy>13.841970151055238</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl-d62d16f:1880785f25e:-7ebf</id>
+  </store>
+  <serviceConfiguration>false</serviceConfiguration>
+  <simpleConversionEnabled>false</simpleConversionEnabled>
+  <internationalTitle/>
+  <internationalAbstract/>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <padWithZeros>false</padWithZeros>
+  <forcedDecimal>false</forcedDecimal>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

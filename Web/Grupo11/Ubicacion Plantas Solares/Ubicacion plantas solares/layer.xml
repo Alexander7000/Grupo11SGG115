@@ -1,0 +1,17 @@
+<layer>
+  <name>Ubicacion plantas solares</name>
+  <id>LayerInfoImpl-d62d16f:1880785f25e:-7ecb</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-d62d16f:1880785f25e:-7eca</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-d62d16f:1880785f25e:-7ecc</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2023-05-11 22:44:50.600 UTC</dateCreated>
+  <dateModified>2023-05-11 22:46:27.284 UTC</dateModified>
+</layer>

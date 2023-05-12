@@ -1,0 +1,17 @@
+<layer>
+  <name>El Salvador</name>
+  <id>LayerInfoImpl-d62d16f:1880785f25e:-7f31</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-76d764dc:187fc53a6f3:-7ff6</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-d62d16f:1880785f25e:-7f32</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2023-05-11 21:05:47.522 UTC</dateCreated>
+  <dateModified>2023-05-11 21:07:16.58 UTC</dateModified>
+</layer>

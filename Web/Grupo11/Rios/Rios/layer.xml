@@ -1,0 +1,17 @@
+<layer>
+  <name>Rios</name>
+  <id>LayerInfoImpl-d62d16f:1880785f25e:-7f0c</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-d62d16f:1880785f25e:-7f0b</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-d62d16f:1880785f25e:-7f0d</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2023-05-11 21:35:23.344 UTC</dateCreated>
+  <dateModified>2023-05-11 21:36:23.306 UTC</dateModified>
+</layer>

@@ -1,0 +1,17 @@
+<layer>
+  <name>Plantas eolicas</name>
+  <id>LayerInfoImpl-d62d16f:1880785f25e:-7f00</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-d62d16f:1880785f25e:-7eff</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-d62d16f:1880785f25e:-7f01</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2023-05-11 21:48:51.108 UTC</dateCreated>
+  <dateModified>2023-05-11 21:49:53.164 UTC</dateModified>
+</layer>

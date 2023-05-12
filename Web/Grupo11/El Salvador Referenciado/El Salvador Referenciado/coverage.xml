@@ -1,0 +1,146 @@
+<coverage>
+  <id>CoverageInfoImpl-d62d16f:1880785f25e:-7fe8</id>
+  <name>El Salvador Referenciado</name>
+  <nativeName>El Salvador Referenciado</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl-76d764dc:187fc53a6f3:-7fff</id>
+  </namespace>
+  <title>El Salvador Referenciado</title>
+  <description>Generated from GeoTIFF</description>
+  <abstract>Capa raster del relieve de El Salvador</abstract>
+  <keywords>
+    <string>El Salvador Referenciado</string>
+    <string>WCS</string>
+    <string>GeoTIFF</string>
+  </keywords>
+  <nativeCRS>GEOGCS[&quot;SIRGAS_ES2007.8&quot;, &#xd;
+  DATUM[&quot;SIRGAS_ES2007.8&quot;, &#xd;
+    SPHEROID[&quot;GRS 1980&quot;, 6378137.0, 298.257222101, AUTHORITY[&quot;EPSG&quot;,&quot;7019&quot;]], &#xd;
+    TOWGS84[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], &#xd;
+    AUTHORITY[&quot;EPSG&quot;,&quot;1069&quot;]], &#xd;
+  PRIMEM[&quot;Greenwich&quot;, 0.0, AUTHORITY[&quot;EPSG&quot;,&quot;8901&quot;]], &#xd;
+  UNIT[&quot;degree&quot;, 0.017453292519943295], &#xd;
+  AXIS[&quot;Geodetic longitude&quot;, EAST], &#xd;
+  AXIS[&quot;Geodetic latitude&quot;, NORTH], &#xd;
+  AUTHORITY[&quot;EPSG&quot;,&quot;5393&quot;]]</nativeCRS>
+  <srs>EPSG:5393</srs>
+  <nativeBoundingBox>
+    <minx>-90.20400354850341</minx>
+    <maxx>-87.6027544124952</maxx>
+    <miny>13.007261577132931</miny>
+    <maxy>14.600204736163699</maxy>
+    <crs>EPSG:5393</crs>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>-90.20400354850341</minx>
+    <maxx>-87.6027544124952</maxx>
+    <miny>13.00726158023738</miny>
+    <maxy>14.600204740546161</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>REPROJECT_TO_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+    <entry key="dirName">El Salvador referenciado_El Salvador Referenciado</entry>
+  </metadata>
+  <store class="coverageStore">
+    <id>CoverageStoreInfoImpl-d62d16f:1880785f25e:-7fe9</id>
+  </store>
+  <serviceConfiguration>false</serviceConfiguration>
+  <simpleConversionEnabled>false</simpleConversionEnabled>
+  <internationalTitle/>
+  <internationalAbstract/>
+  <nativeFormat>GeoTIFF</nativeFormat>
+  <grid dimension="2">
+    <range>
+      <low>0 0</low>
+      <high>2020 1237</high>
+    </range>
+    <transform>
+      <scaleX>0.0012877470970337644</scaleX>
+      <scaleY>-0.0012877470970337644</scaleY>
+      <shearX>0.0</shearX>
+      <shearY>0.0</shearY>
+      <translateX>-90.2033596749549</translateX>
+      <translateY>14.599560862615181</translateY>
+    </transform>
+    <crs>EPSG:5393</crs>
+  </grid>
+  <supportedFormats>
+    <string>GIF</string>
+    <string>PNG</string>
+    <string>JPEG</string>
+    <string>TIFF</string>
+    <string>GEOTIFF</string>
+  </supportedFormats>
+  <interpolationMethods>
+    <string>nearest neighbor</string>
+    <string>bilinear</string>
+    <string>bicubic</string>
+  </interpolationMethods>
+  <defaultInterpolationMethod>nearest neighbor</defaultInterpolationMethod>
+  <dimensions>
+    <coverageDimension>
+      <name>RED_BAND</name>
+      <description>GridSampleDimension[-Infinity,Infinity]</description>
+      <range>
+        <min>-inf</min>
+        <max>inf</max>
+      </range>
+      <unit>W.m-2.Sr-1</unit>
+      <dimensionType>
+        <name>UNSIGNED_8BITS</name>
+      </dimensionType>
+    </coverageDimension>
+    <coverageDimension>
+      <name>GREEN_BAND</name>
+      <description>GridSampleDimension[-Infinity,Infinity]</description>
+      <range>
+        <min>-inf</min>
+        <max>inf</max>
+      </range>
+      <unit>W.m-2.Sr-1</unit>
+      <dimensionType>
+        <name>UNSIGNED_8BITS</name>
+      </dimensionType>
+    </coverageDimension>
+    <coverageDimension>
+      <name>BLUE_BAND</name>
+      <description>GridSampleDimension[-Infinity,Infinity]</description>
+      <range>
+        <min>-inf</min>
+        <max>inf</max>
+      </range>
+      <unit>W.m-2.Sr-1</unit>
+      <dimensionType>
+        <name>UNSIGNED_8BITS</name>
+      </dimensionType>
+    </coverageDimension>
+  </dimensions>
+  <requestSRS>
+    <string>EPSG:5393</string>
+  </requestSRS>
+  <responseSRS>
+    <string>EPSG:5393</string>
+  </responseSRS>
+  <parameters>
+    <entry>
+      <string>InputTransparentColor</string>
+      <null/>
+    </entry>
+    <entry>
+      <string>SUGGESTED_TILE_SIZE</string>
+      <string>512,512</string>
+    </entry>
+    <entry>
+      <string>Bands</string>
+      <null/>
+    </entry>
+    <entry>
+      <string>RescalePixels</string>
+      <boolean>true</boolean>
+    </entry>
+  </parameters>
+  <nativeCoverageName>El Salvador Referenciado</nativeCoverageName>
+</coverage>

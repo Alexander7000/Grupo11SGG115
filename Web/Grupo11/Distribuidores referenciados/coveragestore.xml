@@ -1,0 +1,14 @@
+<coverageStore>
+  <id>CoverageStoreInfoImpl-d62d16f:1880785f25e:-7ff0</id>
+  <name>Distribuidores referenciados</name>
+  <description>Capa raster del grupo 11</description>
+  <type>GeoTIFF</type>
+  <enabled>true</enabled>
+  <workspace>
+    <id>WorkspaceInfoImpl-76d764dc:187fc53a6f3:-8000</id>
+  </workspace>
+  <__default>false</__default>
+  <dateCreated>2023-05-10 22:33:34.729 UTC</dateCreated>
+  <disableOnConnFailure>false</disableOnConnFailure>
+  <url>file://C:\Users\Alexander\Downloads\Grupo11Web\Raster\Distribuidores referenciado.tif</url>
+</coverageStore>

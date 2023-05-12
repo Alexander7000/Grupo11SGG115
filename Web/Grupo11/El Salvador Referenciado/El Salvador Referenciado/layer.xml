@@ -1,0 +1,17 @@
+<layer>
+  <name>El Salvador Referenciado</name>
+  <id>LayerInfoImpl-d62d16f:1880785f25e:-7fe7</id>
+  <type>RASTER</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-d62d16f:1880785f25e:-7eb6</id>
+  </defaultStyle>
+  <resource class="coverage">
+    <id>CoverageInfoImpl-d62d16f:1880785f25e:-7fe8</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2023-05-10 22:41:44.0 UTC</dateCreated>
+  <dateModified>2023-05-12 01:56:32.832 UTC</dateModified>
+</layer>

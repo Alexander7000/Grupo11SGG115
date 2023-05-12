@@ -1,0 +1,57 @@
+<featureType>
+  <id>FeatureTypeInfoImpl-d62d16f:1880785f25e:-7f21</id>
+  <name>Colonias</name>
+  <nativeName>colonias</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl-76d764dc:187fc53a6f3:-7fff</id>
+  </namespace>
+  <title>colonias</title>
+  <abstract>Capa de las colonias de El Salvador</abstract>
+  <keywords>
+    <string>features</string>
+    <string>colonias</string>
+  </keywords>
+  <nativeCRS>GEOGCS[&quot;WGS 84&quot;, &#xd;
+  DATUM[&quot;World Geodetic System 1984&quot;, &#xd;
+    SPHEROID[&quot;WGS 84&quot;, 6378137.0, 298.257223563, AUTHORITY[&quot;EPSG&quot;,&quot;7030&quot;]], &#xd;
+    AUTHORITY[&quot;EPSG&quot;,&quot;6326&quot;]], &#xd;
+  PRIMEM[&quot;Greenwich&quot;, 0.0, AUTHORITY[&quot;EPSG&quot;,&quot;8901&quot;]], &#xd;
+  UNIT[&quot;degree&quot;, 0.017453292519943295], &#xd;
+  AXIS[&quot;Geodetic longitude&quot;, EAST], &#xd;
+  AXIS[&quot;Geodetic latitude&quot;, NORTH], &#xd;
+  AUTHORITY[&quot;EPSG&quot;,&quot;4326&quot;]]</nativeCRS>
+  <srs>EPSG:5393</srs>
+  <nativeBoundingBox>
+    <minx>-90.13200194310002</minx>
+    <maxx>-87.68407007015998</maxx>
+    <miny>13.155405346400016</miny>
+    <maxy>14.450932664479978</maxy>
+    <crs>EPSG:4326</crs>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>-90.13200194310002</minx>
+    <maxx>-87.68407007015998</maxx>
+    <miny>13.155405349613016</miny>
+    <maxy>14.450932668732285</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl-d62d16f:1880785f25e:-7f22</id>
+  </store>
+  <serviceConfiguration>false</serviceConfiguration>
+  <simpleConversionEnabled>false</simpleConversionEnabled>
+  <internationalTitle/>
+  <internationalAbstract/>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <padWithZeros>false</padWithZeros>
+  <forcedDecimal>false</forcedDecimal>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

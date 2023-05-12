@@ -1,0 +1,17 @@
+<layer>
+  <name>Municipios</name>
+  <id>LayerInfoImpl-d62d16f:1880785f25e:-7f26</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-d62d16f:1880785f25e:-7f25</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-d62d16f:1880785f25e:-7f27</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2023-05-11 21:24:08.107 UTC</dateCreated>
+  <dateModified>2023-05-11 21:25:43.319 UTC</dateModified>
+</layer>

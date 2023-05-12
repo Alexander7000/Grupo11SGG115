@@ -1,0 +1,17 @@
+<layer>
+  <name>Linea de transmision de 115KV</name>
+  <id>LayerInfoImpl-d62d16f:1880785f25e:-7eed</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-d62d16f:1880785f25e:-7eec</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-d62d16f:1880785f25e:-7eee</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2023-05-11 22:00:58.110 UTC</dateCreated>
+  <dateModified>2023-05-11 22:03:00.534 UTC</dateModified>
+</layer>

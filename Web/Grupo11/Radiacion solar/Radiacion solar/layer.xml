@@ -1,0 +1,16 @@
+<layer>
+  <name>Radiacion solar</name>
+  <id>LayerInfoImpl-d62d16f:1880785f25e:-7fcf</id>
+  <type>RASTER</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fe2</id>
+  </defaultStyle>
+  <resource class="coverage">
+    <id>CoverageInfoImpl-d62d16f:1880785f25e:-7fd0</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2023-05-10 22:46:40.813 UTC</dateCreated>
+</layer>

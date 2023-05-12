@@ -1,0 +1,17 @@
+<layer>
+  <name>Lagos</name>
+  <id>LayerInfoImpl-d62d16f:1880785f25e:-7f1a</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-d62d16f:1880785f25e:-7f19</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-d62d16f:1880785f25e:-7f1b</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2023-05-11 21:30:46.375 UTC</dateCreated>
+  <dateModified>2023-05-11 21:32:58.606 UTC</dateModified>
+</layer>

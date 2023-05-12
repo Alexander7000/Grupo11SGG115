@@ -1,0 +1,61 @@
+<featureType>
+  <id>FeatureTypeInfoImpl-d62d16f:1880785f25e:-7ed5</id>
+  <name>Plantas electricas actuales</name>
+  <nativeName>plantas_electricas_actuales</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl-76d764dc:187fc53a6f3:-7fff</id>
+  </namespace>
+  <title>plantas_electricas_actuales</title>
+  <abstract>Capa de las ubicaciones de las plantas electricas mas principales de El Salvador</abstract>
+  <keywords>
+    <string>features</string>
+    <string>plantas_electricas_actuales</string>
+  </keywords>
+  <nativeCRS>GEOGCS[&quot;GCS_SIRGAS_ES2007.8&quot;, &#xd;
+  DATUM[&quot;D_SIRGAS_ES2007.8&quot;, &#xd;
+    SPHEROID[&quot;GRS_1980&quot;, 6378137.0, 298.257222101]], &#xd;
+  PRIMEM[&quot;Greenwich&quot;, 0.0], &#xd;
+  UNIT[&quot;degree&quot;, 0.017453292519943295], &#xd;
+  AXIS[&quot;Longitude&quot;, EAST], &#xd;
+  AXIS[&quot;Latitude&quot;, NORTH]]</nativeCRS>
+  <srs>EPSG:5393</srs>
+  <nativeBoundingBox>
+    <minx>-89.8253606272881</minx>
+    <maxx>-88.5140830715467</maxx>
+    <miny>13.4573871628561</miny>
+    <maxy>14.3699489467136</maxy>
+    <crs>GEOGCS[&quot;GCS_SIRGAS_ES2007.8&quot;, &#xd;
+  DATUM[&quot;D_SIRGAS_ES2007.8&quot;, &#xd;
+    SPHEROID[&quot;GRS_1980&quot;, 6378137.0, 298.257222101]], &#xd;
+  PRIMEM[&quot;Greenwich&quot;, 0.0], &#xd;
+  UNIT[&quot;degree&quot;, 0.017453292519943295], &#xd;
+  AXIS[&quot;Longitude&quot;, EAST], &#xd;
+  AXIS[&quot;Latitude&quot;, NORTH]]</crs>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>-89.8253606272881</minx>
+    <maxx>-88.5140830715467</maxx>
+    <miny>13.457387166296906</miny>
+    <maxy>14.3699489508962</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl-d62d16f:1880785f25e:-7ed6</id>
+  </store>
+  <serviceConfiguration>false</serviceConfiguration>
+  <simpleConversionEnabled>false</simpleConversionEnabled>
+  <internationalTitle/>
+  <internationalAbstract/>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <padWithZeros>false</padWithZeros>
+  <forcedDecimal>false</forcedDecimal>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

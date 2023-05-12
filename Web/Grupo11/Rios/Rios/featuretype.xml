@@ -1,0 +1,58 @@
+<featureType>
+  <id>FeatureTypeInfoImpl-d62d16f:1880785f25e:-7f0d</id>
+  <name>Rios</name>
+  <nativeName>rios</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl-76d764dc:187fc53a6f3:-7fff</id>
+  </namespace>
+  <title>rios</title>
+  <abstract>Capa de los rios de El Salvador</abstract>
+  <keywords>
+    <string>features</string>
+    <string>rios</string>
+  </keywords>
+  <nativeCRS>GEOGCS[&quot;SIRGAS_ES2007.8&quot;, &#xd;
+  DATUM[&quot;SIRGAS_ES2007.8&quot;, &#xd;
+    SPHEROID[&quot;GRS 1980&quot;, 6378137.0, 298.257222101, AUTHORITY[&quot;EPSG&quot;,&quot;7019&quot;]], &#xd;
+    TOWGS84[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], &#xd;
+    AUTHORITY[&quot;EPSG&quot;,&quot;1069&quot;]], &#xd;
+  PRIMEM[&quot;Greenwich&quot;, 0.0, AUTHORITY[&quot;EPSG&quot;,&quot;8901&quot;]], &#xd;
+  UNIT[&quot;degree&quot;, 0.017453292519943295], &#xd;
+  AXIS[&quot;Geodetic longitude&quot;, EAST], &#xd;
+  AXIS[&quot;Geodetic latitude&quot;, NORTH], &#xd;
+  AUTHORITY[&quot;EPSG&quot;,&quot;5393&quot;]]</nativeCRS>
+  <srs>EPSG:5393</srs>
+  <nativeBoundingBox>
+    <minx>-90.13219865648053</minx>
+    <maxx>-87.71050181989062</maxx>
+    <miny>13.146073417284526</miny>
+    <maxy>14.410431982245914</maxy>
+    <crs>EPSG:5393</crs>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>-90.13219865648053</minx>
+    <maxx>-87.71050181989062</maxx>
+    <miny>13.146073420490623</miny>
+    <maxy>14.41043198646328</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl-d62d16f:1880785f25e:-7f13</id>
+  </store>
+  <serviceConfiguration>false</serviceConfiguration>
+  <simpleConversionEnabled>false</simpleConversionEnabled>
+  <internationalTitle/>
+  <internationalAbstract/>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <padWithZeros>false</padWithZeros>
+  <forcedDecimal>false</forcedDecimal>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

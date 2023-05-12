@@ -1,0 +1,139 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl-d62d16f:1880785f25e:-7eb9</id>
+  <name>Grupo 11</name>
+  <mode>SINGLE</mode>
+  <title>Grupo11</title>
+  <abstractTxt>Implementacion del grupo11</abstractTxt>
+  <workspace>
+    <id>WorkspaceInfoImpl-76d764dc:187fc53a6f3:-8000</id>
+  </workspace>
+  <internationalTitle/>
+  <internationalAbstract/>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl-d62d16f:1880785f25e:-7fe7</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-d62d16f:1880785f25e:-7f31</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-d62d16f:1880785f25e:-7f2c</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-d62d16f:1880785f25e:-7f26</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-d62d16f:1880785f25e:-7f20</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-d62d16f:1880785f25e:-7f1a</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-d62d16f:1880785f25e:-7f0c</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-d62d16f:1880785f25e:-7f06</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-d62d16f:1880785f25e:-7f00</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-d62d16f:1880785f25e:-7efa</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-d62d16f:1880785f25e:-7ef4</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-d62d16f:1880785f25e:-7eed</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-d62d16f:1880785f25e:-7ee7</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-d62d16f:1880785f25e:-7ee1</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-d62d16f:1880785f25e:-7eda</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-d62d16f:1880785f25e:-7ed4</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-d62d16f:1880785f25e:-7ecb</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-d62d16f:1880785f25e:-7ec3</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-d62d16f:1880785f25e:-7ebd</id>
+    </published>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl-d62d16f:1880785f25e:-7eb6</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-76d764dc:187fc53a6f3:-7ff6</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-d62d16f:1880785f25e:-7f2b</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-d62d16f:1880785f25e:-7f25</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-d62d16f:1880785f25e:-7f1f</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-d62d16f:1880785f25e:-7f19</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-d62d16f:1880785f25e:-7f0b</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-d62d16f:1880785f25e:-7f05</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-d62d16f:1880785f25e:-7eff</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-d62d16f:1880785f25e:-7ef9</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-d62d16f:1880785f25e:-7ef3</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-d62d16f:1880785f25e:-7eec</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-d62d16f:1880785f25e:-7ee6</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-d62d16f:1880785f25e:-7ee0</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-d62d16f:1880785f25e:-7ed9</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-d62d16f:1880785f25e:-7ed3</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-d62d16f:1880785f25e:-7eca</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-d62d16f:1880785f25e:-7ec2</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-d62d16f:1880785f25e:-7ebc</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>-91.43</minx>
+    <maxx>-87.65</maxx>
+    <miny>9.97</miny>
+    <maxy>14.44</maxy>
+    <crs>EPSG:5393</crs>
+  </bounds>
+  <dateCreated>2023-05-11 23:09:36.741 UTC</dateCreated>
+  <dateModified>2023-05-12 02:02:36.530 UTC</dateModified>
+</layerGroup>

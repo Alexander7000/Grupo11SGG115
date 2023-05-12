@@ -1,0 +1,17 @@
+<layer>
+  <name>Distribuidores Referenciado</name>
+  <id>LayerInfoImpl-d62d16f:1880785f25e:-7fee</id>
+  <type>RASTER</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fe2</id>
+  </defaultStyle>
+  <resource class="coverage">
+    <id>CoverageInfoImpl-d62d16f:1880785f25e:-7fef</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2023-05-10 22:34:09.197 UTC</dateCreated>
+  <dateModified>2023-05-12 02:14:48.552 UTC</dateModified>
+</layer>

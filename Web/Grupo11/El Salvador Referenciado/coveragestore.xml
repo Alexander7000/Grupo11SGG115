@@ -1,0 +1,15 @@
+<coverageStore>
+  <id>CoverageStoreInfoImpl-d62d16f:1880785f25e:-7fe9</id>
+  <name>El Salvador Referenciado</name>
+  <description>Capa raster del grupo 11</description>
+  <type>GeoTIFF</type>
+  <enabled>true</enabled>
+  <workspace>
+    <id>WorkspaceInfoImpl-76d764dc:187fc53a6f3:-8000</id>
+  </workspace>
+  <__default>false</__default>
+  <dateCreated>2023-05-10 22:41:00.797 UTC</dateCreated>
+  <dateModified>2023-05-12 01:47:21.581 UTC</dateModified>
+  <disableOnConnFailure>false</disableOnConnFailure>
+  <url>file://C:\Grupo11SGG115\Raster\El Salvador Referenciado.tif</url>
+</coverageStore>

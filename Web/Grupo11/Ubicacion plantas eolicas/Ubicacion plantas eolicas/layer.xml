@@ -1,0 +1,17 @@
+<layer>
+  <name>Ubicacion plantas eolicas</name>
+  <id>LayerInfoImpl-d62d16f:1880785f25e:-7ec3</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-d62d16f:1880785f25e:-7ec2</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-d62d16f:1880785f25e:-7ec4</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2023-05-11 22:48:39.910 UTC</dateCreated>
+  <dateModified>2023-05-11 22:51:59.312 UTC</dateModified>
+</layer>

@@ -1,0 +1,61 @@
+<featureType>
+  <id>FeatureTypeInfoImpl-d62d16f:1880785f25e:-7f01</id>
+  <name>Plantas eolicas</name>
+  <nativeName>Plantas eolicas</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl-76d764dc:187fc53a6f3:-7fff</id>
+  </namespace>
+  <title>Plantas eolicas</title>
+  <abstract>Capa de las plantas solares que se pódrian implementar en El Salvador</abstract>
+  <keywords>
+    <string>features</string>
+    <string>Plantas eolicas</string>
+  </keywords>
+  <nativeCRS>GEOGCS[&quot;GCS_SIRGAS_ES2007.8&quot;, &#xd;
+  DATUM[&quot;D_SIRGAS_ES2007.8&quot;, &#xd;
+    SPHEROID[&quot;GRS_1980&quot;, 6378137.0, 298.257222101]], &#xd;
+  PRIMEM[&quot;Greenwich&quot;, 0.0], &#xd;
+  UNIT[&quot;degree&quot;, 0.017453292519943295], &#xd;
+  AXIS[&quot;Longitude&quot;, EAST], &#xd;
+  AXIS[&quot;Latitude&quot;, NORTH]]</nativeCRS>
+  <srs>EPSG:5393</srs>
+  <nativeBoundingBox>
+    <minx>-89.98467260624025</minx>
+    <maxx>-87.78014748376619</maxx>
+    <miny>13.618728063859116</miny>
+    <maxy>13.983021265388883</maxy>
+    <crs>GEOGCS[&quot;GCS_SIRGAS_ES2007.8&quot;, &#xd;
+  DATUM[&quot;D_SIRGAS_ES2007.8&quot;, &#xd;
+    SPHEROID[&quot;GRS_1980&quot;, 6378137.0, 298.257222101]], &#xd;
+  PRIMEM[&quot;Greenwich&quot;, 0.0], &#xd;
+  UNIT[&quot;degree&quot;, 0.017453292519943295], &#xd;
+  AXIS[&quot;Longitude&quot;, EAST], &#xd;
+  AXIS[&quot;Latitude&quot;, NORTH]]</crs>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>-89.98467260624025</minx>
+    <maxx>-87.78014748376619</maxx>
+    <miny>13.61872806742522</miny>
+    <maxy>13.98302126924715</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl-d62d16f:1880785f25e:-7f02</id>
+  </store>
+  <serviceConfiguration>false</serviceConfiguration>
+  <simpleConversionEnabled>false</simpleConversionEnabled>
+  <internationalTitle/>
+  <internationalAbstract/>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <padWithZeros>false</padWithZeros>
+  <forcedDecimal>false</forcedDecimal>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

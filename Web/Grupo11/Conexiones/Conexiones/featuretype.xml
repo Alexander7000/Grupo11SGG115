@@ -1,0 +1,61 @@
+<featureType>
+  <id>FeatureTypeInfoImpl-d62d16f:1880785f25e:-7edb</id>
+  <name>Conexiones</name>
+  <nativeName>conexiones</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl-76d764dc:187fc53a6f3:-7fff</id>
+  </namespace>
+  <title>conexiones</title>
+  <abstract>Capa de las colonias de las lineas de transmision de El Salvador a nivel representativo</abstract>
+  <keywords>
+    <string>features</string>
+    <string>conexiones</string>
+  </keywords>
+  <nativeCRS>GEOGCS[&quot;GCS_SIRGAS_ES2007.8&quot;, &#xd;
+  DATUM[&quot;D_SIRGAS_ES2007.8&quot;, &#xd;
+    SPHEROID[&quot;GRS_1980&quot;, 6378137.0, 298.257222101]], &#xd;
+  PRIMEM[&quot;Greenwich&quot;, 0.0], &#xd;
+  UNIT[&quot;degree&quot;, 0.017453292519943295], &#xd;
+  AXIS[&quot;Longitude&quot;, EAST], &#xd;
+  AXIS[&quot;Latitude&quot;, NORTH]]</nativeCRS>
+  <srs>EPSG:5393</srs>
+  <nativeBoundingBox>
+    <minx>-89.87810719315507</minx>
+    <maxx>-87.84910581358184</maxx>
+    <miny>13.300133074832173</miny>
+    <maxy>14.311605863593032</maxy>
+    <crs>GEOGCS[&quot;GCS_SIRGAS_ES2007.8&quot;, &#xd;
+  DATUM[&quot;D_SIRGAS_ES2007.8&quot;, &#xd;
+    SPHEROID[&quot;GRS_1980&quot;, 6378137.0, 298.257222101]], &#xd;
+  PRIMEM[&quot;Greenwich&quot;, 0.0], &#xd;
+  UNIT[&quot;degree&quot;, 0.017453292519943295], &#xd;
+  AXIS[&quot;Longitude&quot;, EAST], &#xd;
+  AXIS[&quot;Latitude&quot;, NORTH]]</crs>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>-89.87810719315507</minx>
+    <maxx>-87.84910581358184</maxx>
+    <miny>13.30013307815326</miny>
+    <maxy>14.311605867725799</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl-d62d16f:1880785f25e:-7edc</id>
+  </store>
+  <serviceConfiguration>false</serviceConfiguration>
+  <simpleConversionEnabled>false</simpleConversionEnabled>
+  <internationalTitle/>
+  <internationalAbstract/>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <padWithZeros>false</padWithZeros>
+  <forcedDecimal>false</forcedDecimal>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

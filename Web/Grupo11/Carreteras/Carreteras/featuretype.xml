@@ -1,0 +1,47 @@
+<featureType>
+  <id>FeatureTypeInfoImpl-d62d16f:1880785f25e:-7ef5</id>
+  <name>Carreteras</name>
+  <nativeName>carreteras</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl-76d764dc:187fc53a6f3:-7fff</id>
+  </namespace>
+  <title>carreteras</title>
+  <abstract>Capa de las carreteras de El Salvador</abstract>
+  <keywords>
+    <string>carreteras</string>
+    <string>features</string>
+  </keywords>
+  <srs>EPSG:5393</srs>
+  <nativeBoundingBox>
+    <minx>-90.12214547199994</minx>
+    <maxx>-87.69443081899992</maxx>
+    <miny>13.15689579800005</miny>
+    <maxy>14.446466735000058</maxy>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>-90.12214547199994</minx>
+    <maxx>-87.69443081899992</maxx>
+    <miny>13.156895801214155</miny>
+    <maxy>14.446466739248507</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl-d62d16f:1880785f25e:-7ef6</id>
+  </store>
+  <serviceConfiguration>false</serviceConfiguration>
+  <simpleConversionEnabled>false</simpleConversionEnabled>
+  <internationalTitle/>
+  <internationalAbstract/>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <padWithZeros>false</padWithZeros>
+  <forcedDecimal>false</forcedDecimal>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>
