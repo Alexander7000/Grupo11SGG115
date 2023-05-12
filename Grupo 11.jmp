@@ -7,7 +7,7 @@
     </mapping>
     <mapping>
       <key class="javax.xml.namespace.QName">Project Date</key>
-      <value class="java.lang.String">2023/05/11 20:07:15</value>
+      <value class="java.lang.String">2023/05/11 23:12:47</value>
     </mapping>
     <mapping>
       <key class="javax.xml.namespace.QName">Project File</key>
@@ -24,7 +24,7 @@
   </properties>
   <windowLocation X="5" Y="5" />
   <windowSize width="1214" height="549" />
-  <windowZoom left="-90.52412877909552" right="-87.21713033557583" bottom="12.938761196936154" top="14.6575301248181" />
+  <windowZoom left="-89.21479119725691" right="-89.17752712710045" bottom="13.776470794919007" top="13.797098453373989" />
   <maximized>true</maximized>
   <layers>
     <category name="Trabajo">
